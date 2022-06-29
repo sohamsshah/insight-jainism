@@ -3,42 +3,42 @@ title: "Madhya Lok (Adhikaar 6)"
 sidebar_position: 4
 ---
 
-# The 4 Karmic States
+# Madhyalok [Gatha 561 - Gatha 1018]
 
-Add **Markdown or React** files to `src/pages` to create a **standalone page**:
+The deliberation of the Middle World (Humans and Animal World) is done in **"Nartiryaglok-Adhikaar" (Adhikaar 6)**.
 
-- `src/pages/index.js` -> `localhost:3000/`
-- `src/pages/foo.md` -> `localhost:3000/foo`
-- `src/pages/foo/bar.js` -> `localhost:3000/foo/bar`
+There are total **458** Jain Temples in this Middle World. Bowing down to them, **Acharya Nemichandra** starts explaining the "Nartiryaglok".
 
-## Create your first React Page
+Whatever is there in the Middle World, is explained in depth here. This is biggest Adhikaar of this Shastra; comprising of **457** Gathas.
 
-Create a file at `src/pages/my-react-page.js`:
+Topics such as:
 
-```jsx title="src/pages/my-react-page.js"
-import React from "react";
-import Layout from "@theme/Layout";
+- 5 Merus (Mountains) and their detailed description including their corresponding Meru
+  - Description of each Meru (Height, width, area, volume, color, structure, shape, temples on it etc.)
+  - 7 Areas
+  - 6 Large Mountains corresponding to each meru
+  - Forests
+  - Lakes
+  - Heavenly Beings etc. living in these areas
+  - The Great Rivers and their divisions etc.
+- Videh-Kshetra
+- Bharat-Kshetra, AeravatKshetra
+- Bhogbhumis, Karmabhumis
+- The names of countries, cities etc. situated in the Middle World
 
-export default function MyReactPage() {
-  return (
-    <Layout>
-      <h1>My React page</h1>
-      <p>This is a React page</p>
-    </Layout>
-  );
-}
-```
+Moreover details for the sections including:
 
-A new page is now available at `http://localhost:3000/my-react-page`.
+- 63 Shalaka Purush (Special Humans)
+- Who are Tirthankars and their description
+- Who are Chakravartis and their description
+- [6 Kaal Parivartan (Kaal Chakra)](/docs/Insights/Kaal_Chakra)
+- Oceans and Island Structure of Middle World and its details
+- Kumanush Dweep (Kubhog-bhumis)
+- Manushottar Mountain
+- Nandishwar Dweep etc.
 
-## Create your first Markdown Page
+As the last section of this Granth; Acharya Nemichandra explains the **"Akritrim Jinalayas"** (Jain Temples) in a lot depth.
 
-Create a file at `src/pages/my-markdown-page.md`:
+> After reading this, we realize that all the Jain Temples we see around us take the reference of the Akritrim (existing since infinite time and will exist forever) Temples in the Universe which are described in scriptures like "Triloksara".
 
-```mdx title="src/pages/my-markdown-page.md"
-# My Markdown page
-
-This is a Markdown page
-```
-
-A new page is now available at `http://localhost:3000/my-markdown-page`.
+Also, it includes complex mathematical and geomatrical calculations to describe these great temples. Indeed it is an insightful topic to read about!

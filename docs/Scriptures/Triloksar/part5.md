@@ -3,42 +3,31 @@ title: "Conclusion"
 sidebar_position: 5
 ---
 
-# The 4 Karmic States
+# Conclusion
 
-Add **Markdown or React** files to `src/pages` to create a **standalone page**:
+**"Triloksar"** is in itself a fascinating, core and an important Jain Scripture which teaches us about the real manifestation of the Universe, how it functions and everything around this topic.
 
-- `src/pages/index.js` -> `localhost:3000/`
-- `src/pages/foo.md` -> `localhost:3000/foo`
-- `src/pages/foo/bar.js` -> `localhost:3000/foo/bar`
+In fact, in today's world; we are slowly heading to believe in scientific viewpoints more than anything, the scriptures like Triloksar are a blessing for us to realize how great our Jainism is - that 1000 years before where modern science was not even found; our Digamber Jain Saints wrote these things.
 
-## Create your first React Page
+**Indeed, Karnanuyog Scriptures are a reflection of Kevalgyaan (Infinite Knowledge) of God!**
 
-Create a file at `src/pages/my-react-page.js`:
+Also,
+"Triloksar" - Trilok + Saar = Summary of 3 Lokas (worlds).
 
-```jsx title="src/pages/my-react-page.js"
-import React from "react";
-import Layout from "@theme/Layout";
+Just imagine, if the Summary is such detailed, how minute the real description would be? It really makes us respect and proud of what we have got.
 
-export default function MyReactPage() {
-  return (
-    <Layout>
-      <h1>My React page</h1>
-      <p>This is a React page</p>
-    </Layout>
-  );
-}
-```
+**How great is Jainism? Where each and everything has got a logical explanation; where everything is backed by science and mathematics?**
 
-A new page is now available at `http://localhost:3000/my-react-page`.
+These Scriptures are written by such great saints for us curious minds only; so that we understand the truth and get on the path of Moksh.
 
-## Create your first Markdown Page
+As it is rightly said:
 
-Create a file at `src/pages/my-markdown-page.md`:
+> लोकस्वरूप विचार कें, आतम रूप निहारि । परमारथ व्यवहार गुणि, मिथ्याभाव निवारि ।।
 
-```mdx title="src/pages/my-markdown-page.md"
-# My Markdown page
+The real **"saar"** (gist) of the 3 Lok (Universe) is the "Prayojanbhut" and "Saarbhut" tatva i.e. our **Shuddhatma**. Let us seek refuge of our own-selves to do self-realzation and achieve the state of Infinite Bliss i.e Siddha avastha as soon as possible.
 
-This is a Markdown page
-```
+Jai Jinendra 🙏
 
-A new page is now available at `http://localhost:3000/my-markdown-page`.
+---
+
+> **This script was delivered at the Goshti (eloucation event) at "Shree Simandhar Swami Digamber Jain Mandir" on the ocassion of Shrut-Panchami Parv on date: 5 June, 2022.**

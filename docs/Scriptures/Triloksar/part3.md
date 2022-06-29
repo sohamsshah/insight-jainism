@@ -3,25 +3,25 @@ title: "Urdhvalok (Adhikaar 2,3,4,5)"
 sidebar_position: 3
 ---
 
-# Urdhvalok
+# Urdhvalok [Gatha 208 - Gatha 560]
 
 The explanation of Heaven (Urdhvalok) is done in next 4 Adhikaars.
 
-2. Bhavan-adhikaar [Gatha 208 - Gatha 249]
-3. Vyantarlok-adhikaar [Gatha 250 - Gatha 331]
-4. Jyotishlok-adhikaar [Gatha 332 - Gatha 450]
-5. Vaimaniklok-adhikaar [Gatha 451 - Gatha 560]
+2. **Bhavan-adhikaar** [Gatha 208 - Gatha 249]
+3. **Vyantarlok-adhikaar** [Gatha 250 - Gatha 331]
+4. **Jyotishlok-adhikaar** [Gatha 332 - Gatha 450]
+5. **Vaimaniklok-adhikaar** [Gatha 451 - Gatha 560]
 
-The Heavenly Beings (Dev) are of majorly 4 types:
+The **Heavenly Beings (Dev)** are of majorly 4 types:
 
-1. Bhavanvaasi (The Devs who stay in Palaces (Bhavans))
-2. Vyantarvaasi (The Devs who roam around everywhere in the Universe)
-3. Jyotishyak Dev (The Devs who live on the Sun, Moon, Planets, Stars etc. bright cosmic objects)
-4. Vaimaanik Dev (The Devs who live in Vimaan (planes))
+1. **Bhavanvaasi** (The Devs who stay in Palaces (Bhavans))
+2. **Vyantarvaasi** (The Devs who roam around everywhere in the Universe)
+3. **Jyotishyak Dev** (The Devs who live on the Sun, Moon, Planets, Stars etc. bright cosmic objects)
+4. **Vaimaanik Dev** (The Devs who live in Vimaan (planes))
 
 ### 2. Bhavan Adhikaar
 
-This Adhikaar talks about Bhavanvaasi Devs. Details such as:
+This Adhikaar talks about **Bhavanvaasi Devs**. Details such as:
 
 - The Akritrim Jinaalayas in Bhavan Lok
 - Where these Heavenly beings are found in the Universe
@@ -35,9 +35,9 @@ This Adhikaar talks about Bhavanvaasi Devs. Details such as:
 
 ### 3. Vyantarlok Adhikaar
 
-Vyantar devs are what the current world names them as "Ghosts"/"Vampires" etc. Yes! They do exist, but not in the form the movies etc. show!
+**Vyantar devs** are what the current world names them as "Ghosts"/"Vampires" etc. Yes! They do exist, but not in the form the movies etc. show!
 
-Since Vyantar devs roam around everywhere, there is a possibility that they come at our small world too!
+> **Since Vyantar devs roam around everywhere, there is a possibility that they come at our small world too!**
 
 Explanations for the below are found in this Adhikaar in depth:
 
@@ -51,9 +51,11 @@ Explanations for the below are found in this Adhikaar in depth:
 
 ### 4. Jyotishlok Adhikaar
 
-This Adhikaar is basically what the modern science names as "Astronomy". Some other Mithyatva beliefs also have added "Astrology" aspect to it. Jainism totally focusses on Science and Logic and of course Maths. Whatever the Sarvyagyadev has told in Samavasharan, via these Scriptures - we are able to understand.
+This Adhikaar is basically what the modern science names as **"Astronomy"**. Some other Mithyatva (blind and false) beliefs also have added **"Astrology"** aspect to it.
 
-In this Adhikaar topics such as:
+Jainism totally focusses on Science and Logic and of course Maths. Whatever the Sarvyagyadev has told in Samavasharan, via these Scriptures - we are able to understand.
+
+In this Adhikaar, the **fascinating astronimal and cosmology topics** such as:
 
 - The Akritrim Jinaalayas in Jyotish Lok
 - Details about the Dweep-Samudra Structure of Madhya-lok and related calculations
@@ -74,7 +76,7 @@ In this Adhikaar topics such as:
 
 ### 5. Vaimaaniklok Adhikaar
 
-There are 16 Heavens in Vaimaanik Lok. What is their structure, who are these Devs, etc. details are found in this Adhikaar. Descriptions for -
+There are **16 Heavens in Vaimaanik Lok**. What is their structure, who are these Devs, etc. details are found in this Adhikaar. Descriptions for -
 
 - The Akritrim Jinaalayas in Vaimaanik Lok (84,97,023 Temples)
 - The Population of these Heavenly Beings
@@ -89,12 +91,12 @@ There are 16 Heavens in Vaimaanik Lok. What is their structure, who are these De
 - Their Life Span
 - Who becomes a Vaimaanik Dev and where does Vaimaanik Dev goes after death
 
-After explaining such great material belongings and happiness of Devlok, Acharyadev in the Gatha 559 and Gatha 560 goes on to explain the real true happiness of Siddha Bhagwaan.
+**After explaining such great material belongings and happiness of Devlok, Acharyadev in the Gatha 559 and Gatha 560 goes on to explain the real true happiness of Siddha Bhagwaan.**
 
-He tells us not to get fooled by this fickle materialistic happiness and explains what the real happiness is like.
+Acharyadev tells us not to get fooled by this fickle materialistic happiness and explains what the real happiness is like.
 
 In 6 Dhala it is said that:
 
-> " Jo Vimaanvasi hu thay, Samyakdarshan bin dukh paaye"
+> जो विमानवासी हू थाय, सम्यग्दर्शन बिन दु:ख पाय।
 
-Which means that without Samyakdarshan (Right belief), even if one has the belongings as a Vimaanvasi dev, then also one is in pain and grief; and real happiness isn't found in materials.
+This means that without **Samyakdarshan (Right belief)**, even if one has the belongings as equal to of **Vimaanvasi dev**, then also one is in pain and grief; and real happiness isn't experienced.
