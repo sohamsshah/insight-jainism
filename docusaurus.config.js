@@ -8,7 +8,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "Insight Jainism",
   tagline: "Get true insights of Jainism",
-  url: "https://your-docusaurus-test-site.com",
+  url: "https://insightjainism.vercel.app",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -78,12 +78,11 @@ const config = {
                 to: "/docs/category/biographies",
                 label: "Biographies",
               },
+              {
+                to: "/docs/tweets",
+                label: "Latest Tweets",
+              }
             ],
-          },
-          {
-            href: "https://github.com/facebook/docusaurus",
-            label: "GitHub",
-            position: "right",
           },
         ],
       },
