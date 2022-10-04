@@ -1,0 +1,30 @@
+{
+  "title": {
+    "message": "Insight Jainism",
+    "description": "The title in the navbar"
+  },
+  "item.label.Concepts": {
+    "message": "सिद्धांत",
+    "description": "Navbar item with label Concepts"
+  },
+  "item.label.Insights": {
+    "message": "अंतर्दृष्टि",
+    "description": "Navbar item with label Insights"
+  },
+  "item.label.Know more": {
+    "message": "और जानें",
+    "description": "Navbar item with label Know more"
+  },
+  "item.label.Scriptures": {
+    "message": "धर्मग्रंथों",
+    "description": "Navbar item with label Scriptures"
+  },
+  "item.label.Biographies": {
+    "message": "आत्‍मकथाएँ",
+    "description": "Navbar item with label Biographies"
+  },
+  "item.label.Latest Tweets": {
+    "message": "नवीनतम ट्वीट्स",
+    "description": "Navbar item with label Latest Tweets"
+  }
+}
