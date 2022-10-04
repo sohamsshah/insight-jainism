@@ -3,6 +3,7 @@ import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import Layout from "@theme/Layout";
 import HomepageFeatures from "@site/src/components/HomepageFeatures";
 import styles from "./index.module.css";
+import Translate, {translate} from '@docusaurus/Translate';
 
 export default function Home() {
   const { siteConfig } = useDocusaurusContext();
@@ -13,11 +14,17 @@ export default function Home() {
     >
       <main>
         <div className={styles.heroBanner}>
-          <h1>Welcome to Insight Jainism 🙏</h1>
+          <h1>
+            <Translate>
+              Welcome to Insight Jainism 🙏
+            </Translate>
+          </h1>
           <p>
-            Your one-stop destination to get the true insights of Jainism's core
-            concepts, cosmos, spirituality, mythologies and a lot more - curated
-            and simplified for the future Siddhas!
+            <Translate>
+              Your one-stop destination to get the true insights of Jainism's core
+              concepts, cosmos, spirituality, mythologies and a lot more - curated
+              and simplified for the future Siddhas!
+            </Translate>
           </p>
         </div>
 
