@@ -14,7 +14,7 @@ const config = {
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
   staticDirectories: ["public", "static"],
-  organizationName: "insight-jainism", // Usually your GitHub org/user name.
+  organizationName: "sohamsshah", // Usually your GitHub org/user name.
   projectName: "insight-jainism", // Usually your repo name.
 
   i18n: {
@@ -94,11 +94,11 @@ const config = {
             items: [
               {
                 label: "Instagram",
-                href: "https://www.instagram.com/cyf_42/",
+                href: "https://www.instagram.com/insight_jainism/",
               },
               {
                 label: "Twitter",
-                href: "https://www.instagram.com/cyf_42/",
+                href: "https://www.twitter.com/insight_jainism/",
               },
             ],
           },
