@@ -1,0 +1,269 @@
+{
+  "Welcome to Insight Jainism 🙏": {
+    "message": "इनसाइट जैनिज़्म में आपका स्वागत है 🙏"
+  },
+  "Your one-stop destination to get the true insights of Jainism's core concepts, cosmos, spirituality, mythologies and a lot more - curated and simplified for the future Siddhas!": {
+    "message": "जैन धर्म की मूल अवधारणाओं, ब्रह्मांड, आध्यात्मिकता, पौराणिक कथाओं और बहुत कुछ की सच्ची अंतर्दृष्टि प्राप्त करने के लिए आपकी एक मात्र मंज़िल - भविष्य के सिद्धों के लिए संगठित और सरल किया हुआ।"
+  },
+  "theme.ErrorPageContent.title": {
+    "message": "यह पेज क्रैश हो गया।",
+    "description": "The title of the fallback page when the page crashed"
+  },
+  "theme.ErrorPageContent.tryAgain": {
+    "message": "दोबारा प्रयास करें",
+    "description": "The label of the button to try again when the page crashed"
+  },
+  "theme.NotFound.title": {
+    "message": "पेज नहीं मिला",
+    "description": "The title of the 404 page"
+  },
+  "theme.NotFound.p1": {
+    "message": "हमें वह नहीं मिला, जिसकी आपको तलाश थी।",
+    "description": "The first paragraph of the 404 page"
+  },
+  "theme.NotFound.p2": {
+    "message": "कृपया उस साइट के मालिक से संपर्क करें जिसने आपको मूल URL से जोड़ा है और उन्हें बताएं कि उनका लिंक टूट गया है।",
+    "description": "The 2nd paragraph of the 404 page"
+  },
+  "theme.AnnouncementBar.closeButtonAriaLabel": {
+    "message": "बंद करे",
+    "description": "The ARIA label for close button of announcement bar"
+  },
+  "theme.BackToTopButton.buttonAriaLabel": {
+    "message": "शीर्ष तक वापस स्क्रॉल करें",
+    "description": "The ARIA label for the back to top button"
+  },
+  "theme.blog.archive.title": {
+    "message": "संग्रहालय",
+    "description": "The page & hero title of the blog archive page"
+  },
+  "theme.blog.archive.description": {
+    "message": "संग्रहालय",
+    "description": "The page & hero description of the blog archive page"
+  },
+  "theme.blog.paginator.navAriaLabel": {
+    "message": "ब्लॉग सूची पेज नेविगेशन",
+    "description": "The ARIA label for the blog pagination"
+  },
+  "theme.blog.paginator.newerEntries": {
+    "message": "नए एंट्रीज़",
+    "description": "The label used to navigate to the newer blog posts page (previous page)"
+  },
+  "theme.blog.paginator.olderEntries": {
+    "message": "पुराने एंट्रीज़",
+    "description": "The label used to navigate to the older blog posts page (next page)"
+  },
+  "theme.blog.post.readingTime.plurals": {
+    "message": "एक मिनट में पढ़ें|{readingTime} मिनट में पढ़ें",
+    "description": "Pluralized label for \"{readingTime} min read\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.blog.post.readMoreLabel": {
+    "message": "{title} के बारे में और पढ़े",
+    "description": "The ARIA label for the link to full blog posts from excerpts"
+  },
+  "theme.blog.post.readMore": {
+    "message": "और पढ़ें",
+    "description": "The label used in blog post item excerpts to link to full blog posts"
+  },
+  "theme.blog.post.paginator.navAriaLabel": {
+    "message": "ब्लॉग पोस्ट पेज नेविगेशन",
+    "description": "The ARIA label for the blog posts pagination"
+  },
+  "theme.blog.post.paginator.newerPost": {
+    "message": "नए पोस्ट",
+    "description": "The blog post button label to navigate to the newer/previous post"
+  },
+  "theme.blog.post.paginator.olderPost": {
+    "message": "पुराने पोस्ट",
+    "description": "The blog post button label to navigate to the older/next post"
+  },
+  "theme.blog.post.plurals": {
+    "message": "एक पोस्ट|{count} पोस्ट",
+    "description": "Pluralized label for \"{count} posts\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.blog.tagTitle": {
+    "message": "{nPosts} पोस्ट \"{tagName}\" टैग के साथ",
+    "description": "The title of the page for a blog tag"
+  },
+  "theme.tags.tagsPageLink": {
+    "message": "सारे टैग देखें",
+    "description": "The label of the link targeting the tag list page"
+  },
+  "theme.colorToggle.ariaLabel": {
+    "message": "डार्क और लाइट मोड के बीच स्विच करें (वर्तमान में {mode})",
+    "description": "The ARIA label for the navbar color mode toggle"
+  },
+  "theme.colorToggle.ariaLabel.mode.dark": {
+    "message": "डार्क मोड",
+    "description": "The name for the dark color mode"
+  },
+  "theme.colorToggle.ariaLabel.mode.light": {
+    "message": "लाइट मोड",
+    "description": "The name for the light color mode"
+  },
+  "theme.docs.breadcrumbs.home": {
+    "message": "होम पेज",
+    "description": "The ARIA label for the home page in the breadcrumbs"
+  },
+  "theme.docs.breadcrumbs.navAriaLabel": {
+    "message": "Breadcrumbs",
+    "description": "The ARIA label for the breadcrumbs"
+  },
+  "theme.docs.DocCard.categoryDescription": {
+    "message": "{count} वस्तुएँ",
+    "description": "The default description for a category card in the generated index about how many items this category includes"
+  },
+  "theme.docs.paginator.navAriaLabel": {
+    "message": "डॉक्स पेज नेविगेशन",
+    "description": "The ARIA label for the docs pagination"
+  },
+  "theme.docs.paginator.previous": {
+    "message": "पिछ्ला",
+    "description": "The label used to navigate to the previous doc"
+  },
+  "theme.docs.paginator.next": {
+    "message": "अगला",
+    "description": "The label used to navigate to the next doc"
+  },
+  "theme.docs.tagDocListPageTitle.nDocsTagged": {
+    "message": "One doc tagged|{count} docs tagged",
+    "description": "Pluralized label for \"{count} docs tagged\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.docs.tagDocListPageTitle": {
+    "message": "{nDocsTagged} with \"{tagName}\"",
+    "description": "The title of the page for a docs tag"
+  },
+  "theme.docs.versionBadge.label": {
+    "message": "Version: {versionLabel}"
+  },
+  "theme.docs.versions.unreleasedVersionLabel": {
+    "message": "यह {siteTitle} {versionLabel} वर्जन के लिए प्रकाशित डॉक्यूमेंटेशन है।",
+    "description": "The label used to tell the user that he's browsing an unreleased doc version"
+  },
+  "theme.docs.versions.unmaintainedVersionLabel": {
+    "message": "यह {siteTitle} {versionLabel} के लिए डॉक्यूमेंटेशन है, जिसे अब सक्रिय रूप से नहीं बनाए रखा गया है।",
+    "description": "The label used to tell the user that he's browsing an unmaintained doc version"
+  },
+  "theme.docs.versions.latestVersionSuggestionLabel": {
+    "message": "अप-टू-डेट डॉक्यूमेंटेशन के लिए {latestVersionLink} ({versionLabel}) देखें।",
+    "description": "The label used to tell the user to check the latest version"
+  },
+  "theme.docs.versions.latestVersionLinkLabel": {
+    "message": "सबसे नया वर्जन",
+    "description": "The label used for the latest version suggestion link label"
+  },
+  "theme.common.editThisPage": {
+    "message": "इस पेज को बदलें",
+    "description": "The link label to edit the current page"
+  },
+  "theme.common.headingLinkTitle": {
+    "message": "शीर्षक का सीधा लिंक",
+    "description": "Title for link to heading"
+  },
+  "theme.lastUpdated.atDate": {
+    "message": " {date} पर",
+    "description": "The words used to describe on which date a page has been last updated"
+  },
+  "theme.lastUpdated.byUser": {
+    "message": " {user} द्वारा",
+    "description": "The words used to describe by who the page has been last updated"
+  },
+  "theme.lastUpdated.lastUpdatedAtBy": {
+    "message": "आखरी अपडेट{atDate}{byUser}",
+    "description": "The sentence used to display when a page has been last updated, and by who"
+  },
+  "theme.navbar.mobileVersionsDropdown.label": {
+    "message": "Versions",
+    "description": "The label for the navbar versions dropdown on mobile view"
+  },
+  "theme.common.skipToMainContent": {
+    "message": "मुख्य कंटेंट तक स्किप करें",
+    "description": "The skip to content label used for accessibility, allowing to rapidly navigate to main content with keyboard tab/enter navigation"
+  },
+  "theme.tags.tagsListLabel": {
+    "message": "टैग:",
+    "description": "The label alongside a tag list"
+  },
+  "theme.blog.sidebar.navAriaLabel": {
+    "message": "नया ब्लॉग पोस्ट नेविगेशन",
+    "description": "The ARIA label for recent posts in the blog sidebar"
+  },
+  "theme.CodeBlock.copied": {
+    "message": "कॉपीड",
+    "description": "The copied button label on code blocks"
+  },
+  "theme.CodeBlock.copyButtonAriaLabel": {
+    "message": "क्लिपबोर्ड पर कोड कॉपी करें",
+    "description": "The ARIA label for copy code blocks button"
+  },
+  "theme.CodeBlock.copy": {
+    "message": "कॉपी",
+    "description": "The copy button label on code blocks"
+  },
+  "theme.CodeBlock.wordWrapToggle": {
+    "message": "Toggle word wrap",
+    "description": "The title attribute for toggle word wrapping button of code block lines"
+  },
+  "theme.DocSidebarItem.toggleCollapsedCategoryAriaLabel": {
+    "message": "Toggle the collapsible sidebar category '{label}'",
+    "description": "The ARIA label to toggle the collapsible sidebar category"
+  },
+  "theme.navbar.mobileLanguageDropdown.label": {
+    "message": "भाषाएँ",
+    "description": "The label for the mobile language switcher dropdown"
+  },
+  "theme.TOCCollapsible.toggleButtonLabel": {
+    "message": "इस पेज पर",
+    "description": "The label used by the button on the collapsible TOC component"
+  },
+  "theme.docs.sidebar.collapseButtonTitle": {
+    "message": "साइडबार बंद करें",
+    "description": "The title attribute for collapse button of doc sidebar"
+  },
+  "theme.docs.sidebar.collapseButtonAriaLabel": {
+    "message": "साइडबार बंद करें",
+    "description": "The title attribute for collapse button of doc sidebar"
+  },
+  "theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel": {
+    "message": "← मुख्य मेनू में वापस जाएं",
+    "description": "The label of the back button to return to main menu, inside the mobile navbar sidebar secondary menu (notably used to display the docs sidebar)"
+  },
+  "theme.docs.sidebar.expandButtonTitle": {
+    "message": "साइडबार खोलें",
+    "description": "The ARIA label and title attribute for expand button of doc sidebar"
+  },
+  "theme.docs.sidebar.expandButtonAriaLabel": {
+    "message": "साइडबार खोलें",
+    "description": "The ARIA label and title attribute for expand button of doc sidebar"
+  },
+  "Concepts": {
+    "message": "सिद्धांत"
+  },
+  "Jainism being a scientific and logical religion contains tons of fundamentals and concepts to understand. This section focuses on them!": {
+    "message": "जैन धर्म एक वैज्ञानिक और तार्किक धर्म होने के कारण समझने के लिए कई बुनियादी बातों और अवधारणाओं को समाहित करता है। यह खंड उन पर केंद्रित है!"
+  },
+  "Scriptures": {
+    "message": "धर्मग्रंथों"
+  },
+  "There are hundreds of Jainism Scriptures to read and we need to implement what's taught in them. Summary of some of those scriptures can be found here!": {
+    "message": "जैन धर्म के सैकड़ों ग्रंथ पढ़ने के लिए हैं और हमें उनमें जो सिखाया गया है उसे लागू करने की आवश्यकता है। उनमें से कुछ शास्त्रों का सारांश यहाँ पाया जा सकता है!"
+  },
+  "Biographies": {
+    "message": "आत्‍मकथाएँ"
+  },
+  "We all are indebted to the great Acharyas and Vidvaans. Know who were they, about their life and lessons from them!": {
+    "message": "हम सभी महान आचार्यों और विद्वानों के ऋणी हैं। जानिए वे कौन थे, उनके जीवन और उनसे मिली सीख के बारे में!"
+  },
+  "Insights": {
+    "message": "अंतर्दृष्टि"
+  },
+  "There are a lot of interesting and in-depth things in Jainism. `Insights` portrays them in a beautiful and simplified way so that we can grasp them easily.": {
+    "message": "जैन धर्म में बहुत सी रोचक और गहरी बातें हैं। 'अंतर्दृष्टि' उन्हें एक सुंदर और सरल तरीके से चित्रित करती है ताकि हम उन्हें आसानी से समझ सकें।"
+  },
+  "Stories": {
+    "message": "कहानियां"
+  },
+  "We all love stories, ain't we? Historical events teach us a lot about Jainism. Read those mythological stories in this section!": {
+    "message": "हम सभी कहानियों से प्यार करते हैं, है ना? ऐतिहासिक घटनाएं हमें जैन धर्म के बारे में बहुत कुछ सिखाती हैं। उन पौराणिक कहानियों को इस भाग में पढ़ें!"
+  }
+}

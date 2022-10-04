@@ -1,0 +1,54 @@
+{
+  "version.label": {
+    "message": "अगला",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Concepts": {
+    "message": "सिद्धांत",
+    "description": "The label for category Concepts in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.6 Dravyas": {
+    "message": "6 द्रव्य",
+    "description": "The label for category 6 Dravyas in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.6 Dravyas.link.generated-index.description": {
+    "message": "ब्रह्मांड किससे बना है? ब्रह्मांड के 6 अस्तित्व!",
+    "description": "The generated-index page description for category 6 Dravyas in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Karma Theory": {
+    "message": "कर्म के सिद्धांत",
+    "description": "The label for category Karma Theory in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Karma Theory.link.generated-index.description": {
+    "message": "कर्म दर्शन की ओर एक वैज्ञानिक दृष्टिकोण",
+    "description": "The generated-index page description for category Karma Theory in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Scriptures": {
+    "message": "धर्मग्रंथों",
+    "description": "The label for category Scriptures in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Triloksar": {
+    "message": "त्रिलोकसार",
+    "description": "The label for category Triloksar in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Triloksar.link.generated-index.description": {
+    "message": "कैसा है यह ब्रह्मांड? इस प्रश्न का उत्तर इस महान जैन ग्रंथ - त्रिलोकसर में मिलता है। ब्रह्मांड के बारे में यह महान ग्रंथ क्या बताता है, इसका सारांश प्राप्त करने के लिए इस अंश को पढ़ें",
+    "description": "The generated-index page description for category Triloksar in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Insights": {
+    "message": "अंतर्दृष्टि",
+    "description": "The label for category Insights in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Insights.link.generated-index.description": {
+    "message": "जैन धर्म में बहुत सी रोचक और गहरी बातें हैं। 'अंतर्दृष्टि' उन्हें एक सुंदर और सरल तरीके से चित्रित करती है ताकि हम उन्हें आसानी से समझ सकें।",
+    "description": "The generated-index page description for category Insights in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Biographies": {
+    "message": "आत्‍मकथाएँ",
+    "description": "The label for category Biographies in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Stories": {
+    "message": "कहानियां",
+    "description": "The label for category Stories in sidebar tutorialSidebar"
+  }
+}
