@@ -19,7 +19,15 @@ const config = {
 
   i18n: {
     defaultLocale: "en",
-    locales: ["en"],
+    locales: ["en", "hi"],
+    localeConfigs: {
+      en: {
+        label: 'English',
+      },
+      hi: {
+        label: 'हिन्दी',
+      },
+    },
   },
 
   presets: [
@@ -84,6 +92,10 @@ const config = {
               }
             ],
           },
+          {
+            type: 'localeDropdown',
+            position: 'right',
+          }
         ],
       },
       footer: {
