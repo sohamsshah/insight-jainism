@@ -9,6 +9,10 @@ This website is built using [Docusaurus 2](https://docusaurus.io/), a modern sta
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/sohamsshah/insight-jainism?color=yellow&style=flat-square)
 [![Tweet this](https://img.shields.io/twitter/url?color=grey&label=Tweet%20this&logo=twitter&style=flat-square&url=https%3A%2F%2Fgithub.com%2Fsohamsshah%2Finsight-jainism)](https://twitter.com/intent/tweet?text=Woah!%20Check%20this%20out&url=https%3A%2F%2Fgithub.com%2Fsohamsshah%2Finsight-jainism)
 
+## Live demo
+
+![insight-jainism-demo](/src/assets/insight-jainism-demo.gif)
+
 ### Installation
 
 ```
