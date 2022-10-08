@@ -62,6 +62,7 @@ Pull requests are always welcome. But before making any major changes you can op
 For less major or minor changes, you can open a [pull request](https://github.com/sohamsshah/insight-jainism/pulls).
 
 ## Thanks to all the contributors ❤️
+
 <a href="https://github.com/sohamsshah/insight-jainism/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=sohamsshah/insight-jainism" />
 </a>
