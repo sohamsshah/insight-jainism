@@ -1,4 +1,3 @@
-
 # Git Setup Guide
 
 ## To initialise Git, write
@@ -21,7 +20,19 @@ git config --global user.email "email address"
 
 - A fork is a rough copy of a repository. Forking a repository allows you to freely test and debug with changes without affecting the original project. One of the excessive use of forking is to propose changes for bug fixing.
 
+    <img src="src/assets/fork.png"
+     alt="Fork"
+     style="float: ; margin-right: 10px; width: 890px; height: 460px" />
+
 - Click on Code Button and copy the URL of your forked Repository
+
+    <img src="src/assets/code_button.png"
+     alt="Click on Code Button"
+     style="float: ; margin-right: 10px; width: 890px; height: 460px" />
+
+  <img src="src/assets/code_url.png"
+     alt="Copy the URL"
+     style="float: ; margin-right: 10px; width: 890px; height: 460px" />
 
 ## 3. Switch to your Git bash window, and enter the following :
 
