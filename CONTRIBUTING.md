@@ -86,9 +86,13 @@ git push origin branch_name
 
 ## 5. Final Steps
 
-- Open your forked git repository, you will get a message to "Contribute"
+- Open your forked git repository, you will get a message like as shown in the figure, if not then refresh the page.
 
 - Click on "Contribute"
+
+    <img src="src/assets/contribute-pullreq.png"
+     alt="Contribute"
+     style="float: ; margin-right: 10px; width: 890px; height: 460px" />
 
 - Now click on "Open pull request"
 
