@@ -96,8 +96,28 @@ git push origin branch_name
 
 - Now click on "Open pull request"
 
+    <img src="src/assets/pullreq2.png"
+     alt="Open Pull Request"
+     style="float: ; margin-right: 10px; width: 890px; height: 460px" />
+
 - Click on "Create pull request"
 
-- You may add a Comment to your Pull Request
+    <img src="src/assets/pullreq3.png"
+     alt="Create Pull Request"
+     style="float: ; margin-right: 10px; width: 890px; height: 460px" />
+
+### Click on "Create pull request"
+
+You may add a comment to your Pull Request
+
+<img src="src/assets/pullreq4.png"
+     alt="Comment your pull request"
+     style="float: ; margin-right: 10px; width: 890px; height: 460px" />
+
+### You will get message similar to as shown below in the picture which means that you have sucessfully made a pull request !
+
+<img src="src/assets/msg_display.png"
+     alt="Confirmation message"
+     style="float: ; margin-right: 10px; width: 890px; height: 460px" />
 
 - After merging it with the main branch, you can see the changes
