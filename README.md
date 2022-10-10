@@ -7,7 +7,6 @@ This website is built using [Docusaurus 2](https://docusaurus.io/), a modern sta
 [![GitHub forks](https://img.shields.io/github/forks/sohamsshah/insight-jainism?style=flat-square)](https://github.com/sohamsshah/insight-jainism/network)
 [![GitHub issues](https://img.shields.io/github/issues/sohamsshah/insight-jainism?style=flat-square)](https://github.com/sohamsshah/insight-jainism/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/sohamsshah/insight-jainism?color=yellow&style=flat-square)](https://github.com/sohamsshah/insight-jainism/pulls)
-[![Tweet this](https://img.shields.io/twitter/url?color=grey&label=Tweet%20this&logo=twitter&style=flat-square&url=https%3A%2F%2Fgithub.com%2Fsohamsshah%2Finsight-jainism)](https://twitter.com/intent/tweet?text=Woah!%20Check%20this%20out&url=https%3A%2F%2Fgithub.com%2Fsohamsshah%2Finsight-jainism)
 
 ## Live demo
 
@@ -59,7 +58,7 @@ If you know a fix, you can open a **pull request** to contribute.
 ## Contributing
 
 - Pull requests are always welcome. But before making any major changes you can open an [issue](https://github.com/sohamsshah/insight-jainism/issues) to discuss.<br>
-For less major or minor changes, you can open a [pull request](https://github.com/sohamsshah/insight-jainism/pulls).
+  For less major or minor changes, you can open a [pull request](https://github.com/sohamsshah/insight-jainism/pulls).
 
 - We recommend you to go through the [CONTRIBUTING.md](https://github.com/sohamsshah/insight-jainism/blob/main/CONTRIBUTING.md) file, where we have guided you step by step to make your contribution.
 
