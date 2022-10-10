@@ -1,4 +1,3 @@
-
 # Git Setup Guide
 
 ## To initialise Git, write
@@ -21,7 +20,19 @@ git config --global user.email "email address"
 
 - A fork is a rough copy of a repository. Forking a repository allows you to freely test and debug with changes without affecting the original project. One of the excessive use of forking is to propose changes for bug fixing.
 
+    <img src="src/assets/fork.png"
+     alt="Fork"
+     style="float: ; margin-right: 10px; width: 890px; height: 460px" />
+
 - Click on Code Button and copy the URL of your forked Repository
+
+    <img src="src/assets/code_button.png"
+     alt="Click on Code Button"
+     style="float: ; margin-right: 10px; width: 890px; height: 460px" />
+
+  <img src="src/assets/code_url.png"
+     alt="Copy the URL"
+     style="float: ; margin-right: 10px; width: 890px; height: 460px" />
 
 ## 3. Switch to your Git bash window, and enter the following :
 
@@ -75,14 +86,38 @@ git push origin branch_name
 
 ## 5. Final Steps
 
-- Open your forked git repository, you will get a message to "Contribute"
+- Open your forked git repository, you will get a message like as shown in the figure, if not then refresh the page.
 
 - Click on "Contribute"
 
+    <img src="src/assets/contribute-pullreq.png"
+     alt="Contribute"
+     style="float: ; margin-right: 10px; width: 890px; height: 460px" />
+
 - Now click on "Open pull request"
+
+    <img src="src/assets/pullreq2.png"
+     alt="Open Pull Request"
+     style="float: ; margin-right: 10px; width: 890px; height: 460px" />
 
 - Click on "Create pull request"
 
-- You may add a Comment to your Pull Request
+    <img src="src/assets/pullreq3.png"
+     alt="Create Pull Request"
+     style="float: ; margin-right: 10px; width: 890px; height: 460px" />
 
-- After merging it with the main branch, you can see the changes
+- Click on "Create pull request"
+
+    You may add a comment to your Pull Request
+
+    <img src="src/assets/pullreq4.png"
+     alt="Comment your pull request"
+     style="float: ; margin-right: 10px; width: 890px; height: 460px" />
+
+- You will get message similar to as shown below in the picture which means that you have sucessfully made a pull request !
+
+    <img src="src/assets/msg_display.png"
+     alt="Confirmation message"
+     style="float: ; margin-right: 10px; width: 890px; height: 460px" />
+
+- After merging the pull request with the main branch, you can see the changes
