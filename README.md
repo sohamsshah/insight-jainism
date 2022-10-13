@@ -61,16 +61,6 @@ If you know a fix, you can open a **pull request** to contribute.
 
 - We recommend you to go through the [CONTRIBUTING.md](https://github.com/sohamsshah/insight-jainism/blob/main/CONTRIBUTING.md) file, where we have guided you step by step to make your contribution.
 
-- Before pusing code run this command
-
-```
-$ npm run lint
-```
-
-```
-$ npm run test
-```
-
 
 
 ## Thanks to all the contributors ❤️
