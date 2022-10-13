@@ -14,13 +14,13 @@ This website is built using [Docusaurus 2](https://docusaurus.io/), a modern sta
 ### Installation
 
 ```
-$ yarn
+$ npm
 ```
 
 ### Local Development
 
 ```
-$ yarn start
+$ npm start
 ```
 
 This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
@@ -28,7 +28,7 @@ This command starts a local development server and opens up a browser window. Mo
 ### Build
 
 ```
-$ yarn build
+$ npm build
 ```
 
 This command generates static content into the `build` directory and can be served using any static contents hosting service.
@@ -61,9 +61,7 @@ If you know a fix, you can open a **pull request** to contribute.
 
 - We recommend you to go through the [CONTRIBUTING.md](https://github.com/sohamsshah/insight-jainism/blob/main/CONTRIBUTING.md) file, where we have guided you step by step to make your contribution.
 
-## Connect with Insight Jainism!
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/insight_jainism)
 
 ## Thanks to all the contributors ❤️
 
