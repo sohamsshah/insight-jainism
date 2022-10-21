@@ -5,7 +5,7 @@ This website is built using [Docusaurus 2](https://docusaurus.io/), a modern sta
 <!-- removed github stars -->
 <!-- removed forks -->
 <!-- removed issues -->
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/sohamsshah/insight-jainism?color=yellow&style=flat-square)](https://github.com/sohamsshah/insight-jainism/pulls)
+<!-- removed pull request -->
 
 ## Live demo
 
