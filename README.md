@@ -2,7 +2,7 @@
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
-[![GitHub stars](https://img.shields.io/github/stars/sohamsshah/insight-jainism?style=flat-square)](https://github.com/sohamsshah/insight-jainism/stargazers)
+<!-- removed github stars -->
 [![GitHub forks](https://img.shields.io/github/forks/sohamsshah/insight-jainism?style=flat-square)](https://github.com/sohamsshah/insight-jainism/network)
 [![GitHub issues](https://img.shields.io/github/issues/sohamsshah/insight-jainism?style=flat-square)](https://github.com/sohamsshah/insight-jainism/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/sohamsshah/insight-jainism?color=yellow&style=flat-square)](https://github.com/sohamsshah/insight-jainism/pulls)
