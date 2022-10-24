@@ -29,7 +29,7 @@ Tirthankars in Jainism has **5 Kalyanaks** namely:
 4. **Gyaan Kalyanak** (celebrated when the Tirthankar attains Kevalgyaan i.e. Infinite/Complete Knowledge)
 5. **Moksh Kalyanak** (celebrated when the Tirthankar attains Salvation/Nirvaan)
 
-Yes, as you must have rightly understood - we celebrate and relive the Moksh-Kalyanak of Bhagwaan Mahavir.
+Yes, as you must have rightly understood - we celebrate and relive the Moksh-Kalyanak of Bhagwaan Mahavir on Diwali.
 
 ### 1. Garbh Kalyanak
 
@@ -102,7 +102,7 @@ Yes, as you must have rightly understood - we celebrate and relive the Moksh-Kal
 
 - God is neither the creator of the Universe nor the Controller of the Universe. God is a pure and true "state" of the Soul free from Karmas and that is what Lord Mahavira taught us.  So, How can we beg about our worldly fickle happiness like health, money, fame etc. in front of the ONE who preached us NOT to run after them?
 
-- This is what Bhagwaan Mahavir has taught us. Let us follow the path he has shown us; become Siddhalaya soon.
+- This is what Bhagwaan Mahavir has taught us. Let us follow the path he has shown us; and attain the state of Siddha soonest.
 
 "**भूतकाल प्रभु आपका, वह मेरा वर्तमान। वर्तमान जो आपका, वह भविष्य मम जान॥**"
 
