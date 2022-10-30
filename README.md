@@ -1,7 +1,7 @@
 # Insight Jainism
 
 This website support Jainism.
-This website is built using javascript.
+This website is built using javascript and css.
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
 <!-- removed github stars -->
