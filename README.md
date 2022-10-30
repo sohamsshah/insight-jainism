@@ -1,6 +1,5 @@
 # Insight Jainism
 
-This website support Jainism.
 This website is built using javascript and css.
 JavaScript is the programming language of the Web.
 in this website built high level core concepts for javascript.
