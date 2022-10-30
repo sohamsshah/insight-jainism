@@ -1,7 +1,7 @@
 # Insight Jainism
 
 This website is built using javascript and css.
-JavaScript is the programming language of the Web.
+JavaScript is the programming language of the Web and this is easy to learn..
 in this website built high level core concepts for javascript.
 
 
