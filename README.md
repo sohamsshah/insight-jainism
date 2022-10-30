@@ -1,6 +1,10 @@
 # Insight Jainism
 
-This website support Jainism.
+This website is built using javascript and css.
+JavaScript is the programming language of the Web and this is easy to learn..
+in this website built high level core concepts for javascript.
+
+
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
 <!-- removed github stars -->
