@@ -4,6 +4,8 @@ This website support Jainism.
 This website is built using javascript.
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
+this is for test 
+
 <!-- removed github stars -->
 <!-- removed forks -->
 <!-- removed issues -->
