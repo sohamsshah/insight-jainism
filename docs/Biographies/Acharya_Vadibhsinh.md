@@ -5,7 +5,7 @@ sidebar_position: 1
 
 # Acharya Vadibhsinh Suri
 
-**Acharya Vadibhsinh Suri** - one of the greatest Jain Poets (Mahakavi), an excellent debater (vaadi, possessed significant knowledge of Jain Siddhant (Fundamentals and Concepts) and Jain Dharma, was a *Digamber Jain Acharya* who preached Jainism in the Southern part of India.   
+**Acharya Vadibhsinh Suri** - one of the greatest Jain Poets (Mahakavi), an excellent debater (vaadi), possessed significant knowledge of Jain Siddhant (Fundamentals and Concepts) and Jain Dharma, was a *Digamber Jain Acharya* who preached Jainism in the Southern part of India.   
 
 He was an illustrious poet, expert debater (Vaadi), Vaagmi, Yogi, Tyaagi, Tapasvi and Tatvagyaani. 
 
@@ -37,14 +37,14 @@ In the **'Mallishen Prashasti'** available in Shravanbelgola; **Ashta-sahastri**
 By this, we come to know that Acharya Vadibhsinh Suri was not only a prestigious debater but was also possessing deep knowledge of Jain Siddhants.This fact depicts that he must have written tika on **'Aaptmimaansa'** granth written by **Acharya Samantbhadra**. There is also fair possibility that a Acharyadev might have written more other Maulik Nyaya-granthas which are unavailable to us today. 
 
 There are 2 popular Granths (works) available to us:
-1. **Kshatra-Chudaamani**
-2. **Gadya-chintaamani**
+1. **Kshatra-Chudamani**
+2. **Gadya-chintamani**
 
 Both of these works are based on the life of **Jeevandhar Swami** (who was a one of the 12 Kamdevas of this era and attained Salvation). 
 
 These both literary works are **Kaavya-shastras** written in Sanskrit language.
 
-Kshtatra Chudaamani is a **'Niti-granth'** where the life virtues, morals, ethics etc. are explained. In it, the Nitis are explained with the revolving story of Jeevandhar swami and examples from it.
+Kshtatra Chudamani is a **'neeti-granth'** where the life virtues, morals, ethics etc. are explained. In it, the Neetis are explained with the revolving story of Jeevandhar swami and examples from it.
 
 By these works, we can definitely conclude that Acharyadev must have been very much inspired by **Jeevandhar Swami**’s life story and considered him as ideal character.
 
@@ -52,5 +52,5 @@ We are indebted to him for having imparted true knowledge of Jainism to us in th
 
 ### References
 
-- [Kshatra Chudaamani Uttardh](https://ia601609.us.archive.org/26/items/in.ernet.dli.2015.348022/2015.348022.Kshtrachudamani-uttrardh_text.pdf)
-- [Kshatra Chudaamani Full](https://ptst.in/ptst/books/index.php?route=product/product&product_id=467)
+- [Kshatra Chudamani Uttardh](https://ia601609.us.archive.org/26/items/in.ernet.dli.2015.348022/2015.348022.Kshtrachudamani-uttrardh_text.pdf)
+- [Kshatra Chudamani Full](https://ptst.in/ptst/books/index.php?route=product/product&product_id=467)
