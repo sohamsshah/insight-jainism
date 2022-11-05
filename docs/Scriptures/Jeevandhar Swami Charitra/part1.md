@@ -1,6 +1,6 @@
 ---
 title: "Chapter 1"
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 ## Shlok 1
