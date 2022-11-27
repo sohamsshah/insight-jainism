@@ -30,7 +30,11 @@ Karma is classified into 3 major types:
 2. Bhaav Karma (FEELINGS/THOUGHTS)
 3. No-Karma (YOUR BODY and EVERY PHYSICALITY THAT WE SEE AROUND US)
 
-> **Note**: _Karma Theory is unique to Jainism. "Karma" doesn't mean "work" in this context. Karma has a physical existence. Karma isn't abstract! We all know, everyone on Internet have abused this word a lot, which we all know. Now, it is the time for spreading the right knowledge about it!_
+:::note
+
+ Karma Theory is unique to Jainism. "Karma" doesn't mean "work" in this context. Karma has a physical existence. Karma isn't abstract! We all know, everyone on Internet have abused this word a lot, which we all know. Now, it is the time for spreading the right knowledge about it!
+
+:::
 
 ### 1. Dravya Karma
 
