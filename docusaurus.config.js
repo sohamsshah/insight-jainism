@@ -79,6 +79,10 @@ const config = {
                 label: "Biographies",
               },
               {
+                to: "/docs/category/poems",
+                label: "Poems",
+              },
+              {
                 to: "/docs/tweets",
                 label: "Latest Tweets",
               },

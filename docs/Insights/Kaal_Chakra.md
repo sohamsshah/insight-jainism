@@ -60,9 +60,13 @@ sidebar_position: 2
 - Food-intake frequency: Once in 3 Days
 - Body color: Golden(as of Sun)
 
+:::note ‎
+
 **Okay, but what is _Sagaropam_ and _Palyopam_?**
 
-> "Sagaropam" and "Palyopam" are the units of measurement of time here. They are used for measurement of time which is "Uncountable" and can't be represented by numbers. According to modern maths, it is theoretically infinite. But according to Jainism's Mathematics; Palyopam and Sagaropam are considered  "FINITE" but falls in "Uncountable" section. In short, they are huge time span. Also, 1000 Trillion Palyopam = 1 Sagaropam !
+"Sagaropam" and "Palyopam" are the units of measurement of time here. They are used for measurement of time which is "Uncountable" and can't be represented by numbers. According to modern maths, it is theoretically infinite. But according to Jainism's Mathematics; Palyopam and Sagaropam are considered  "FINITE" but falls in "Uncountable" section. In short, they are huge time span. Also, 1000 Trillion Palyopam = 1 Sagaropam !
+
+:::
 
 ### ERA-2 : SUSHMA
 

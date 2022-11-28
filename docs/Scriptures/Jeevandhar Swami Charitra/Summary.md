@@ -11,7 +11,13 @@ This scripture portrays the biography of an eminent King - **"Jeevandhar Swami"*
 
 Acharyadev has beautifully carved this life-story of Jeevandhar Swami to serve us with the remarkable learnings from it in the form of Neetis. Truly, this extraction of learnings from the story is unmatchable and a treasure for us!
 
-> *Everyone of us must have heard about **Chanakya Neeti**, right? It is a Neeti Shastra (455 Shlokas) that talks mostly about politics and general life-lessons. Well, **Kshatra-Chudamani** (747 Shlokas) is also a **Neeti Shastra**, but it isn't about Politics or other day-today shallow life lessons. Jainism has always been about how to achieve Salvation and become God; and that exact thing is explained in this Shastra. **Question is - Why haven't we read (or even heard) Kshatra Chudamani yet?***
+:::tip ‎
+
+Everyone of us must have heard about **Chanakya Neeti**, right? It is a Neeti Shastra (455 Shlokas) that talks mostly about politics and general life-lessons. Well, **Kshatra-Chudamani** (747 Shlokas) is also a **Neeti Shastra**, but it isn't about Politics or other day-today shallow life lessons. Jainism has always been about how to achieve Salvation and become God; and that exact thing is explained in this Shastra. 
+
+**The Question is - Why haven't we read (or even heard) Kshatra Chudamani yet?**
+
+:::
 
 ### Who is Jeevandhar Swami?
 
@@ -54,7 +60,13 @@ The Morals taught in the Shastra can be implemented in our day-to-day life and w
 
 ### Conclusion
 
-**Cannot stress on how much you are missing out if you haven't yet read Kshatra Chudamani. Doing Swadhyay is the best way towards the path of liberation.**
+:::tip ‎
+
+Cannot stress on how much you are missing out if you haven't yet read Kshatra Chudamani. 
+
+**Doing Swadhyay is the best way towards the path of liberation.**
+
+:::
 
 Ending this small brief with an honest wishing that this Shastra becomes the nimitt of our **"Samyaktva"** and we make all of our efforts to imbibe few of the numerous great qualities of Jeevandhar Swami in our life; and one day achieve the state of Siddha like **Bhagwaan Jeevandhar Swami** soonest!
 

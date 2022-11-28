@@ -51,7 +51,11 @@ Let's first explore the 8 Karmas -
 7. Naam
 8. Gotra
 
-> The one who is free from all these Karmas is called God. There are infinite Souls who has ended the Karmic Cycle and attained true bliss.
+:::tip ‎
+
+The one who is free from all these Karmas is called God. There are infinite Souls who have ended the Karmic Cycle and attained true bliss.
+
+:::
 
 ### 1. Gyaanavaran Karma and 2. Darshanavaran Karma
 
