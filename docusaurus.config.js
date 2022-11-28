@@ -110,6 +110,22 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
+
+  themes: [
+    [
+      // @ts-ignore
+      "@easyops-cn/docusaurus-search-local",
+      /** @type {import("@easyops-cn/docusaurus-search-local").PluginOptions} */
+      // @ts-ignore
+      ({
+        hashed: true,
+        language: ["en"],
+        highlightSearchTermsOnTargetPage: true,
+        explicitSearchResultPath: true,
+        indexBlog: false,
+      }),
+    ],
+  ],
 };
 
 module.exports = config;
