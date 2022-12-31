@@ -1,13 +1,13 @@
 ---
 title: "Chapter 1"
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 ## Shlok 1
 
 जिनभक्ति की भहिमायुक्त ग्रन्थकार का मंगलाचरण -
 
-**श्रीपतिर्भगवान्पुष्याद्‌ भक्तानां व: समीहितम्‌। <br />
+**श्रीपतिर्भगवान्पुष्याद्‌ भक्तानां व: समीहितम्‌। <br/>
 सद्भक्ति: शुल्कतामेति मुक्तिकन्याकरग्रहे ॥१॥**
 
 **Hindi Translation**: (श्रीपति:) अन्तरंग-बहिरंग लक्ष्मी के स्वामी (भगवान्‌)
@@ -42,15 +42,6 @@ Here, Acharyadev has a feeling that all the wishes (getting salvation) come true
 पुरुष भी सुखी होता है।
 
 **English Translation**: I Vadibhsinh Suri, pledge to describe the character born of Jeevandhar-swami in brief.
-
-### Neeti 1
-> It is not that only a person who drinks the all "Amrit" becomes happy; But even a man who drinks a little "Amrit" becomes happy.
-
-**Explanation**: In this world, it is not necessary that one drinking more Amrit can only become happy. But if one drinks Amrit according to one's capability and strength, then also one can become happy.
-
-In similar way, it is not that a very descriptive and detailed biography will be fruitful, but even if it is explained in crisp manner, then also it will be equally fruitful. 
-
-And thus, Acharyadev tells that he will write this scripture in brief manner.
 
 ---
 
@@ -131,6 +122,8 @@ Though, in reality; the [Universe](/docs//Insights/How_Is_This_Universe.md) is A
 
 **English Translation**: Satyandhara king's very illustrious and popular Patraani (chief queen) was famous by the name Vijaya for winning all the women by her virtues like pativrata (piety towards her husband) etc.
 
+---
+
 ## Shlok 8
 
 सद्भाग्य की दुर्लभता -
@@ -144,6 +137,8 @@ Though, in reality; the [Universe](/docs//Insights/How_Is_This_Universe.md) is A
 पतिप्रियत्व (सुद्दुर्लभं) बड़ा दुर्लभ है।
 
 **English Translation**: Even though there were many queens in the community, only she (Queen Vijaya) was the king's favorite and no one else.
+
+---
 
 ## Shlok 9
 
@@ -161,11 +156,3 @@ Though, in reality; the [Universe](/docs//Insights/How_Is_This_Universe.md) is A
 
 **Explanation**: 
 Even though King Satyandhar is completely free from all the fear from enemies and is the best amongst all the scholars; he has gotten entangled in the attachments of materialistic possessions. Because of this, he wasted his precious time in materialistic enjoyment with his queen Vijaya. And thus, he forgot the duties for the Kingdom and became ignorant towards them.
-
-
-
-
-
-
-
-

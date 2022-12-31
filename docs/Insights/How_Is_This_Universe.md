@@ -18,8 +18,11 @@ But how is this Universe?
 
 ![Universe](/img/universe.png "The Universe - 3 Lokas")
 
-> _This whole post is based on Verse(Gatha) no. 3 of `Triloksara` granth written by Acharya Nemichandra in 9th Century.
-> There are a total of 1018 Verses in Triloksara. It has all the calculations and equations to define the Universe in detail. In the picture itself you can see some measurements shown!_
+:::info ‎
+
+This whole post is based on Verse(Gatha) no. 3 of `Triloksara` granth written by Acharya Nemichandra in 9th Century. There are a total of 1018 Verses in Triloksara. It has all the calculations and equations to define the Universe in detail. In the picture itself you can see some measurements shown!
+
+:::
 
 ## Some Facts about the Universe
 

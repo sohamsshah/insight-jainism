@@ -32,4 +32,8 @@ Jai Jinendra 🙏
 
 ---
 
-> **This script was delivered at the Goshti (eloucation event) at "Shree Simandhar Swami Digamber Jain Mandir" on the ocassion of Shrut-Panchami Parv on date: 5 June, 2022.**
+:::note
+
+This script was delivered at the Goshti (eloucation event) at "Shree Simandhar Swami Digamber Jain Mandir" on the ocassion of Shrut-Panchami Parv on date: 5 June, 2022.
+
+:::

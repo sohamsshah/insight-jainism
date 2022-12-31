@@ -37,7 +37,11 @@ This Adhikaar talks about **Bhavanvaasi Devs**. Details such as:
 
 **Vyantar devs** are what the current world names them as "Ghosts"/"Vampires" etc. Yes! They do exist, but not in the form the movies etc. show!
 
-> **Since Vyantar devs roam around everywhere, there is a possibility that they come at our small world too!**
+:::info ‎
+
+Since Vyantar devs roam around everywhere, there is a possibility that they come at our small world too!
+
+:::
 
 Explanations for the below are found in this Adhikaar in depth:
 

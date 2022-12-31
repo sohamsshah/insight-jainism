@@ -39,6 +39,10 @@ Moreover details for the sections including:
 
 As the last section of this Granth; Acharya Nemichandra explains the **"Akritrim Jinalayas"** (Jain Temples) in a lot depth.
 
-> After reading this, we realize that all the Jain Temples we see around us take the reference of the Akritrim (existing since infinite time and will exist forever) Temples in the Universe which are described in scriptures like "Triloksara".
+:::tip ‎
+
+After reading this, we realize that all the Jain Temples we see around us take the reference of the Akritrim (existing since infinite time and will exist forever) Temples in the Universe which are described in scriptures like "Triloksara".
+
+:::
 
 Also, it includes complex mathematical and geomatrical calculations to describe these great temples. Indeed it is an insightful topic to read about!
