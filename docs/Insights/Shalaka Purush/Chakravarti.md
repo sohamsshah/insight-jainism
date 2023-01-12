@@ -7,22 +7,20 @@ There are a total of **12 Chakravartis** in each epoch. They are the **ruler** o
 
 The example of 6 Khands in Bharat Kshetra is as below:
 
-<img src="/img/bharat-kshetra.png" alt="Bharat Kshetra" height="100"/>
+<img src="/img/bharat-kshetra.png" alt="Bharat Kshetra" height="80px" />
 
-We can see 5 **Mlech-khands** and 1 **Aryakhand**. 
+In the above map, we can see 5 **Mlech-khands** and 1 **Aryakhand**. 
 
-The Chakravarti rules this whole Bharat Kshetra (area of Bharat-Kshetra is **526 6/19 yojana** which roughly translates to **31,57,894.73684 km**) and it comprises of **6 Continents (known as Khands)**
+The **Chakravarti** rules this whole Bharat Kshetra (area of Bharat-Kshetra is **526 6/19 yojana** which roughly translates to **31,57,894.73684 km**) and it comprises of **6 Continents (known as Khands)**
 
-:::tip ‎
+:::info Where are we in this map? ‎
 
-Currently, we are living in **Arya-khand**. Aryakhand's very small part is actually what we call "Earth" today.
+Currently, we are living in **Arya-khand**. Our earth is a very small part of this Arya-khand.
 
 :::tip:::
 
-Like there are 24 Tirthankars, similarly there are a total of 12 Chakravartis in each epoch.
 
-
-### Some interesting facts about Chakravarti in Jainism
+### Some interesting facts about Chakravarti
 
 He is the ruler of **6 Khands** and has kingdom over **32000 Mukutbaddha Kings**.
 
@@ -57,10 +55,32 @@ From that, different types of precious, valuable and supreme quality belongings 
 8. **Pingal** - Gives Crown, etc. different ornaments, belongings
 9. **Nanaratna** - Gives precious gems, jewels
 
-In short, Chakravartis possess immense wealth and power; more than any one else in the human world. But still, these material wealth and power cannot lead to true and eternal happiness; and one day this great majesty of the Chakravarti also perishes into soil. 
+
+Apart from this he also possesses:
+- **10^14** ploughs
+- **3 crore** cows
+- **14** Shankhs
+- **84 lakh** Elephants
+- **84 lakh** Chariots
+- **18 crore** Horses
+- **84 crore** warrior army
+- **Crores** of Vidyadhar Kings
+- **99000** Artists
+- **32000** Crowned Kings
+- **32000** Music and Arts Theaters 
+- **32000** countries
+- **96 crore** cities
+- **56** islands
+- **Thousands** of Devs (heavenly beings) there to serve him
+- **360** different cooks to prepare the most delicious dishes that one can ever imagine
+- etc. many different possessions
+
+> Chakravartis possess immense wealth and power; more than any one else in the human world. But still, these material wealth and power cannot lead to true and eternal happiness; and one day this great majesty of the Chakravarti also perishes into soil. 
 
 :::tip ‎
-A Chakravarti, if he renounces these worldly pleasures; can become **God** (like Bharat Chakravarti) or go to **heaven**. Alternatively, if a Chakravarti becomes a slave of his senses, wealth, power, belongings etc. goes compulsorily to the **hell**.
+A Chakravarti, if he renounces these worldly pleasures; can become **God** (like Bharat Chakravarti) or go to **heaven**. Alternatively, if a Chakravarti becomes a slave of his senses, wealth, power, belongings etc. goes compulsorily to the **hell**. 
+
+And thus, even Chakravarti; on realizing the fickleness of the materialistic world, to get eternal happiness and bliss; he **renounces** this world leaving all his belongings and moves forward on the path of salvation.
 
 :::tip
 
