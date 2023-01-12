@@ -28,7 +28,7 @@ Topics such as:
 
 Moreover details for the sections including:
 
-- 63 Shalaka Purush (Special Humans)
+- [63 Shalaka Purush (Great Men)](./../../Insights/Shalaka%20Purush/Introduction.md)
 - Who are Tirthankars and their description
 - Who are Chakravartis and their description
 - [6 Kaal Parivartan (Kaal Chakra)](/docs/Insights/Kaal_Chakra)
