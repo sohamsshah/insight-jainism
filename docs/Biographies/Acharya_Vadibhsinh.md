@@ -11,9 +11,9 @@ He was an illustrious poet, expert debater (Vaadi), Vaagmi, Yogi, Tyaagi, Tapasv
 
 ### About
 
-The birthplace of Acharyadev is considered to be in the **Dravid (Tamil Nadu) region** of South India. 
+The birthplace of Acharyadev is considered to be in the **Dravid (Tamil Nadu) region** of South India in around **10th Century** A.D. 
 
-Most of his life was spent in **Mysore** district. *Pombuchh* region of Mysore was main center of preaching Jainism. 
+Most of his life was spent in **Mysore** district. *Pombuchh* region of Mysore was main center of preaching Jainism.
 
 There are 3 names of Acharya available to us today:
 1. Odeydev (his birthname)
@@ -40,7 +40,7 @@ There are 2 popular Granths (works) available to us:
 1. **Kshatra-Chudamani**
 2. **Gadya-chintamani**
 
-Both of these works are based on the life of **Jeevandhar Swami** (who was a one of the 12 Kamdevas of this era and attained Salvation). 
+Both of these works are based on the life of **Jeevandhar Swami** (who was a one of the 24 Kamdevas of this era and attained Salvation). 
 
 These both literary works are **Kaavya-shastras** written in Sanskrit language.
 

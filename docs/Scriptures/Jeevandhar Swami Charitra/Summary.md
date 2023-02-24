@@ -21,11 +21,11 @@ Everyone of us must have heard about **Chanakya Neeti**, right? It is a Neeti Sh
 
 ### Who is Jeevandhar Swami?
 
-Jeevandhar Swami was the last (12th) Kamdev of the current [Avasarpini](/docs/Insights/Kaal_Chakra.md) cycle.
+Jeevandhar Swami was the last (24th) Kamdev of the current [Avasarpini](/docs/Insights/Kaal_Chakra.md) cycle.
 
 Like there are 24 Tirthankars in each Kaal-chakra's half-cycle; similarly along with these there are other great personalities who take birth like Charavartis, Balbhadra, Narayan, Pratinarayan, Kamdev etc.
 
-**Kamdevs**, precisely, are the most personable, attractive and good-looking personalities in the whole Era; and **Jeevandhar Swami* was the 12th of them during the shasan kaal of **24th Tirthankar Bhagwaan Mahavir**.
+**Kamdevs**, precisely, are the most personable, attractive and good-looking personalities in the whole Era; and **Jeevandhar Swami** was the 12th of them during the shasan kaal of **24th Tirthankar Bhagwaan Mahavir**.
 
 Jeevandhar Swami attained liberation after renouncing the worldly materialism from Siddhvarkoot Siddhkshetra.
 
