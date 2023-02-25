@@ -9,6 +9,8 @@ sidebar_position: 1
 
 He was an illustrious poet, expert debater (Vaadi), Vaagmi, Yogi, Tyaagi, Tapasvi and Tatvagyaani. 
 
+<img src="/img/biographies/Acharya_Vadibhsinh_Suri.png" alt="Bharat Kshetra" height="50px" width="200px" />
+
 ### About
 
 The birthplace of Acharyadev is considered to be in the **Dravid (Tamil Nadu) region** of South India in around **10th Century** A.D. 
