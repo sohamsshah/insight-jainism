@@ -11,7 +11,7 @@ sidebar_position: 2
 
 ### About
 
-Based on the description of the trees in **43rd Chapter (parv)** of **Padmapuran**, it can be assumed that he was born in the **southern** part of India. 
+Based on the description of the trees in **43rd Chapter (parv)** of **Padmapuran**, it can be rightly assumed that he was born in the **southern** part of India. 
 
 **Padmapuran** was written in **677 A.D.** (**1207 years** after Bhagwaan Mahaveer and approximately **1343 years** from today), so we can rightly understand that his time was around in **6th and 7th century**.
 
@@ -29,9 +29,9 @@ Although, there is no definite references available to us today about which 'San
 
 ### Works
 
-**"Padmapuran"** is the first Scripture (Shastra/Granth) ever composed in the Sanskrit Kavya (Poetry) Literature; in which Acharyadev, with 41 different types of Swars (musical notes/tunes) has beautifully narrated the chronicles of Bhagwaan Ramchandra. In the [**Prathmanuyog**](./../Concepts//Anuyog/Anuyog.md) literature, this was one of the first Jain Scriptures in which such deep description can be seen.
+**"Padmapuran"** is the first Scripture (Shastra/Granth) ever composed in the Sanskrit Kavya (Poetry) Literature; in which Acharyadev, with **41** different types of Swars (musical notes/tunes) has beautifully narrated the chronicles of Bhagwaan Ramchandra. In the [**Prathmanuyog**](./../Concepts//Anuyog/Anuyog.md) literature, this was one of the first Jain Scriptures in which such deep description can be seen.
 
-The beautiful story-telling and narration with the help of different types of [Kavya-ras](https://mycoaching.in/ras-aur-bhav) like Shringaar-ras, Karuna-ras etc. Each alphabet, each word of this Shastra nurtures with **Vairagya** and **Veetragta**. 
+The beautiful story-telling and narration with the help of different types of [Kavya-ras](https://mycoaching.in/ras-aur-bhav) like Shringaar-ras, Karuna-ras etc. Each alphabet, each word of this Shastra resonates **Vairagya** and **Veetragta**. 
 
 
 :::info 
@@ -48,6 +48,8 @@ Because **Prathmanuyog** scriptures have the historical stories of great persona
 Although it is known that Acharyadev has taken inspiration from the Prakrit Granth **'Padmachariyam'**, composed by **Shri Vimalsuri**; Padmapuran apparently still is a self-written (maulik) composition of Acharya Ravishen.
 
 There are a total of **123 Chapters (parv)** divided into **6 Parts (khands)** in which different events such as details about past-lives of Bhagwaan Ramchadra, Sati Sita, Lakshman, Raavan etc., birth, kingdom, Sita's Abduction, war between Ram-Lakshman and Raavan, birth of Lav-kush, Sita's Agni-pariksha, diksha by Sitaji, vairagya of Ramchandraji to attaining Moksh from Mangi-Tungi Hills; everything is explained in great depth! This granth is **18,000** shlok-praman!
+
+<p style={{textAlign: "center", fontWeight: 'bold'}}>पद्मपुराण के रचयिता आचार्यदेव रविषेण भगवंतको कोटि कोटि वंदन</p>
 
 
 

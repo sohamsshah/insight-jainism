@@ -56,3 +56,5 @@ We are indebted to him for having imparted true knowledge of Jainism to us in th
 
 - [Kshatra Chudamani Uttardh](https://ia601609.us.archive.org/26/items/in.ernet.dli.2015.348022/2015.348022.Kshtrachudamani-uttrardh_text.pdf)
 - [Kshatra Chudamani Full](https://ptst.in/ptst/books/index.php?route=product/product&product_id=467)
+
+<p style={{textAlign: "center", fontWeight: 'bold'}}>मुनिपुंगव वादिभसिंह भगवंत को कोटि कोटि वंदन</p>
