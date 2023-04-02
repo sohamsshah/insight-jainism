@@ -29,7 +29,7 @@ Although, there is no definite references available to us today about which 'San
 
 ### Works
 
-**"Padmapuran"** is the first Scripture (Shastra/Granth) ever composed in the Sanskrit Kavya (Poetry) Literature; in which Acharyadev, with **41** different types of Swars (musical notes/tunes) has beautifully narrated the chronicles of Bhagwaan Ramchandra. In the [**Prathmanuyog**](./../Concepts//Anuyog/Anuyog.md) literature, this was one of the first Jain Scriptures in which such deep description can be seen.
+**"Padmapuran"** is the first Scripture (Shastra/Granth) ever composed in the Sanskrit Kavya (Poetry) Literature; in which Acharyadev, with **41** different types of Swars (musical notes/tunes) has beautifully narrated the chronicles of Bhagwaan Ramchandra. In the [**Prathmanuyog**](./../../Concepts/Anuyog/Anuyog.md) literature, this was one of the first Jain Scriptures in which such deep description can be seen.
 
 The beautiful story-telling and narration with the help of different types of [Kavya-ras](https://mycoaching.in/ras-aur-bhav) like Shringaar-ras, Karuna-ras etc. Each alphabet, each word of this Shastra resonates **Vairagya** and **Veetragta**. 
 

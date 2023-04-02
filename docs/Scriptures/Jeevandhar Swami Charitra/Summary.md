@@ -5,7 +5,7 @@ sidebar_position: 1
 
 ### Introduction
 
-**"Kshatra Chudamani (क्षत्र चूड़ामणि) - Jeevandhar Swami Charitra"** is one of the greatest Neeti-shastras of Jain Literature available to us today; written by [Acharya Vadibhsinh Suri](/docs/Biographies/Acharya_Vadibhsinh.md).
+**"Kshatra Chudamani (क्षत्र चूड़ामणि) - Jeevandhar Swami Charitra"** is one of the greatest Neeti-shastras of Jain Literature available to us today; written by [Acharya Vadibhsinh Suri](/docs/Biographies/Acharyas/Acharya_Vadibhsinh.md).
 
 This scripture portrays the biography of an eminent King - **"Jeevandhar Swami"**, where his various illustrious life events leave imprints for us to learn life lessons, ethics, morals, purity and numerous fundamentals of Jainism.
 
