@@ -1,4 +1,30 @@
-### Buddhi (Knowledge) Riddhi
+---
+title: "1. Buddhi (Intellect) Riddhi"
+sidebar_position: 2
+---
+
+The Miraculous Power that are related to one's uncommon and powerful intellect is known as **Buddhi Riddhi**. 
+
+There are a total 18 types of ***Buddhi Riddhis*** that are possessed by Jain Saints (Riddhi-dhaari muni) as below:
+
+    1. Avadhigyaan
+    2. Manaparyaygyaan
+    3. Kevalgyaan
+    4. Bij-buddhi
+    5. Kosht-buddhi
+    6. Padanusari-buddhi
+    7. Sambhinn Sanshrutva-buddhi
+    8. Dur-aswadan
+    9. Dur-sparsh
+    10. Dur-ghraan
+    11. Dur-shravan
+    12. Dur-darshan
+    13. Dash-purvitva
+    14. Chaudah-purvitva
+    15. Nimitt Riddhi
+    16. Pragnashraman
+    17. Pratyekbuddhitva
+    18. Vaditva
 
 1. **Kosht Buddhi Riddhi**
 
