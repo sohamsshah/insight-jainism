@@ -42,9 +42,10 @@ And finally the first ever Jainism Scripture - **"Shatkhandagama"** was complete
 Probably **"Shatkhandagama"** is the oldest scripture available in the entire world.
 
 Numerous commentaries (Tika) were written on this scripture after this day. Some of them are:
-**Dhavala** - by Veersen Acharya (72000 Shlokas)
-**Jay Dhavala** - by Jinsena Acharya (60000 Shlokas)
-**Maha Dhavala** - by Devsen Acharya (40000 Shlokas)
+
+- **Dhavala** - by Veersen Acharya (72000 Shlokas)
+- **Jay Dhavala** - by Jinsena Acharya (60000 Shlokas)
+- **Maha Dhavala** - by Devsen Acharya (40000 Shlokas)
 
 But what these scriptures contain?
 
@@ -61,11 +62,11 @@ The time when Romans, Greeks, Egyptians etc. civilizations were in forests findi
 
 All these scriptures were written originally on the **Tadpatras** (leaves of Tad tree).
 
-Today we have all of these scriptures in printed forms/PDF on the tip of our fingers. 
+Today we have all of these scriptures in printed forms/PDF on the **tip of our fingers**. 
 
 Isn't it amazing how these are being kept safe since ages? Our ancestors put their life at risk to save this invaluable Shastras.
 
-Whatever we is available to us today is all indebted to the great saints who out of sympathy wrote these granthas so that we can also get to path of moksh marg. 
+Whatever we is available to us today is all **indebted** to the great saints who out of sympathy wrote these granthas so that we can also get to path of moksh marg. 
 
 Today we have everything so easily available to read, understand and explore.
 
@@ -83,9 +84,9 @@ But how we can contribute towards this?
 
 Let's take a vow to do **"Swadhaya"** (reading scriptures) and motivate others to also do so.
 
-Spread Jainism knowledge. Be it explaining some topic to your friend, take part in religious activities or even sharing Jainism content (like our Posts ;)) on social media!
+**Spread Jainism knowledge**. Be it explaining some topic to your friend, take part in religious activities or even sharing Jainism content on social media!
 
-Translate the scriptures into English, French, German, Japanese etc. different languages so that it is accessible to larger geographical area and can be benefitted.
+**Translate** the scriptures into English, French, German, Japanese etc. different languages so that it is accessible to larger geographical area and can be benefitted.
 
 This day teaches us how much we are fortunate the get these, our duties to propagate this knowledge further and in the end read the Jinvaani to know our true self; thus achieving our purpose of life -> **"Moksh"**
 
