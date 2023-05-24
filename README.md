@@ -1,12 +1,11 @@
-<div style="text-align: center">
-
+<div align="center">
+  
 # Insight Jainism
 
 <img src="static/img/android-chrome-512x512.png" width="200">
 
 Insight-Jainism is a comprehensive and informative website dedicated to providing a wealth of knowledge and resources about Jainism, one of the oldest religions in the world. This repository contains the source code for the Insight-Jainism website,  built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 </div>
-
 
 ## Table of contents
 
