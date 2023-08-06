@@ -28,6 +28,27 @@ There are a total 18 types of ***Buddhi Riddhis*** that are possessed by Jain Sa
     17. Pratyekbuddhitva
     18. Vaditva
 
+---
+
+#### From Paramarshi Swasti Mangal Vidhaan 
+
+***कोष्ठस्थ-धान्योपममेकबीजं, संभिन्न-संश्रोतृ-पदानुसारि |*** <br/>
+***चतुर्विधं बुद्धिबलं दधानाः, स्वस्ति क्रियासुः परमर्षयो नः ||*** <br/>
+
+कोष्ठ-बुद्धि, एक-बीज, संभिन-संश्रोतृत्व और पादानुसारणी इन चार प्रकार की बुद्धि ऋद्धि को धारण करने वाले ऋषीराज हम सबका मंगल करें । 
+
+***संस्पर्शनं संश्रवणं च दूरादास्वादन-घ्राण-विलोकनानि |***<br/>
+***दिव्यान् मतिज्ञान-बलाद्वहंतः स्वस्ति क्रियासुः परमर्षयो नः ||***<br/>
+
+दिव्य मति ज्ञान के बल से दूर से ही स्पर्शन, श्रवण, आस्वादन, घाण और अवलोकन रूप पाँच इन्द्रियों के विषयों धारण करने वाले ऋषीराज हम लोगों का कल्याण करें ।
+
+***प्रज्ञा-प्रधानाः श्रमणाः समृद्धाः, प्रत्येकबुद्धाः दशसर्वपूर्वैं: |*** <br/>
+***प्रवादिनोऽष्टांग-निमित्त-विज्ञाः, स्वस्ति क्रियासुः परमर्षयो नः ||***<br/>
+
+प्रज्ञा, श्रमण, प्रत्येक-बुद्ध, अभिन्न-दशपूर्वी, चतुर्दश-पूर्वी, प्रवादित्व, अष्टांग-महानिमित्तज्ञ मुनिवर हमारा कल्याण करें ।
+
+---
+
 1. **Avadhi Gyaan Riddhi**
 
 The special power of the soul to perceive the phenomena or things of the past, present and future with limitations of Dravya (substance), Kshetra (area) and Kaal (time), without any dependency of senses or mind like external factors; is **Avadhi Gyaan** (Clairvoyance knowledge) Buddhi Riddhi, that great Jain Saints possess.
