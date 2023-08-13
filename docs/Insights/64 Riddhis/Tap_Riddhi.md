@@ -15,6 +15,15 @@ There are a total 7 types of ***Tap Riddhis*** that are possessed by Jain Saints
     6. Ghor parakram
     7. Aghorbrahmacharitva
 
+#### From Paramarshi Swasti Mangal Vidhaan 
+
+***दीप्तं च तप्तं च तथा महोग्रं, घोरं तपो घोर पराक्रमस्थाः*** <br/>
+***ब्रह्मापरं घोर गुणाश्चरन्तः, स्वस्ति क्रियासुः परमर्षयो नः ॥८॥*** <br/>
+
+> दीप्ति, तप्त, महाउग्र, घोर तप, और घोर पराक्रम, के तथा अघोर-ब्रह्मचर्य इन सात तप ऋद्धि के धारी मुनिराज हमारा कल्याण करें । 
+
+---
+
 1. **Ugra Tap Riddhi**
 
 The saints possessing **Ugra Tap** are of 2 types:
