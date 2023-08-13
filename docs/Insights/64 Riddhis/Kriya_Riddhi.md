@@ -16,6 +16,17 @@ There are a total 11 types of ***Kriya Riddhis*** that are possessed by Jain Sai
     7. Bij-chaaran
     8. Shreni-chaaran
 
+#### From Paramarshi Swasti Mangal Vidhaan 
+
+***जंघा-वह्रि-श्रेणि-फलांबु-तंतु-प्रसून-बीजांकुर-चारणाह्वाः*** <br/>
+***नभोऽगंण-स्वैर-विहारिणश्च स्वस्ति क्रियासुः परमर्षयो नः ॥५॥*** <br/>
+
+> जंघा, अग्नि शिखा, श्रेणी, फल, जल, तन्तु, पुष्प, बीज, और अंकुर पर चलने वाले चारण बुद्धि के धारक तथा आकाश में स्वच्छ विहार करने वाले मुनिराज हमारा कल्याण करें । 
+
+---
+
+
+
 1. **Jal Chaaran Riddhi**
 
 It is the special power of the soul by which the great Jain Saints can travel on water like that of traveling on land (walking on water); without touching the water and not causing any harm to any **Jalkaayik Jeev** (living organisms who has the body of water). By saying not even Jalkaayik Jeev are harmed; it is implied that no organisms (of 2 to 5 senses) living inside water are harmed!

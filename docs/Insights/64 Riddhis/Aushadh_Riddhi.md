@@ -16,6 +16,15 @@ There are a total 8 types of ***Aushadh Riddhis*** that are possessed by Jain Sa
     7. Mukh Nirvish
     8. Drashti Nirvish
 
+#### From Paramarshi Swasti Mangal Vidhaan 
+
+***आमर्ष-सर्वौषधयस्तथाशीर्विषाविषा दृष्टिविषाविषाश्च*** <br/>
+***स-खिल्ल-विड्ज्जल-मलौषधीशाः स्वस्ति क्रियासुः परमर्षयो नः ॥९॥*** <br/>
+
+आमर्शोषधि, सर्वोषधि, आशीअविष, दृष्टि विष, क्ष्वेलौषधि, विडौषधि, जल्लौषधि, मलौषधि, आशीविष रस, दृष्टि विष रस के धारी परम ऋषि हमारा कल्याण करें । 
+
+---
+
 1. **Aamarsh Aushadh Riddhi**
 
 It is the miraculous power by which any living beings who comes in touch-contact of hands or feet of the great Jain Saint possessing this Riddhi becomes free from all types of diseases. 

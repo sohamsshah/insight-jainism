@@ -11,6 +11,15 @@ There are a total 3 types of ***Bal Riddhis*** that are possessed by Jain Saints
     2. Vachan bal
     3. Kaay bal
 
+#### From Paramarshi Swasti Mangal Vidhaan 
+
+***अणिम्नि दक्षाः कुशलाः महिम्नि,लघिम्नि शक्ताः कृतिनो गरिम्णि*** <br/>
+***मनो-वपुर्वाग्बलिनश्च नित्यं, स्वस्ति क्रियासुः परमर्षयो नः ॥६॥*** <br/>
+
+> अणिमा, महिमा, लघिमा और गरिमा ऋद्धि में कुशल तथा मन, वचन, काय बल ऋद्धि के धारक मुनिराज हमारा कल्याण करें ।
+
+---
+
 1. **Man Bal Riddhi**
 
 It is the miraculous power by which the great Jain Saints can do the Chintvan (contemplate) of the complete Shrutgyaan in just Antarmuhurt time (under 48 minutes).

@@ -19,6 +19,20 @@ There are a total 11 types of ***Vikriya Riddhis*** that are possessed by Jain S
     10. Antardhaan
     11. Kaamroop
 
+#### From Paramarshi Swasti Mangal Vidhaan 
+
+***अणिम्नि दक्षाः कुशलाः महिम्नि,लघिम्नि शक्ताः कृतिनो गरिम्णि*** <br/>
+***मनो-वपुर्वाग्बलिनश्च नित्यं, स्वस्ति क्रियासुः परमर्षयो नः ॥६॥*** <br/>
+
+> अणिमा, महिमा, लघिमा और गरिमा ऋद्धि में कुशल तथा मन, वचन, काय बल ऋद्धि के धारक मुनिराज हमारा कल्याण करें ।
+
+***सकामरुपित्व-वशित्वमैश्यं, प्राकाम्यमन्तर्द्धिमथाप्तिमाप्ताः*** <br/>
+***तथाऽप्रतीघातगुणप्रधानाः स्वस्ति क्रियासुः परमर्षयो नः ॥७॥*** <br/>
+
+> कामरुपित्व, वशित्व, ईशित्व, प्राकम्य, अन्तर्धान, आप्ति तथा अप्रतिघात विक्रिया ऋद्धि से सम्पन्न मुनिराज हमारा कुशल करें ।
+
+---
+
 1. **Anima Riddhi**
 
 It is the special power by which the great Jain Saints who possess this Riddhi can make their body as small as equal to the size of an atom; and can travel through that infinitesimal hole of atomic diameter! Not just this, they can also create the whole army of the Chakravarti King in this small area!
