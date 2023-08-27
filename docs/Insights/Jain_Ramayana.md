@@ -11,8 +11,8 @@ In this section, we will be taking a glimpse of important differences between **
 
 ### 1. Ravan
 - He was a [**Pratinarayana**](./Shalaka%20Purush/Balbhadra_Narayan_PratiNarayan.md) king; the ruler of 3 Khands in Bharat Kshetra.
-- He was a Vidyadhar (read about Vidyadhars [here](./64%20Riddhis/Riddhi_vs_Vidya.md)) and not a **Rakshash** (demon). Valmiki Ramayana manifests Ravan to be a Demon/ Evil; but in reality he belonged to a dynasty (vansh) named "Rakshash"! In fact, he was a Vidyadhar King with super-natural powers along with being a Pratinarayan. All [Shalaka Purushs](./Shalaka%20Purush/Introduction.md) are the most influential torchbearers and promoters of Jainism of their time; and thus Ravan was too!
-- **Ravan kidnapped Sita ji, but didn’t even touch her.** According to **Valmiki Ramayan**; he was given a Shrap (curse) by Vishnu that he’d die if he touched a woman without wish. But according to Jainism, Ravan went to Samavsaran of **Anantvirya Kevali**; and took an oath (Niyam) of not touching any woman without her wish! In spite of him being blind in his senses to kidnap Sita; he wasn't blind enough that he broke his oath that he took in front of Bhagwaan. In fact, he preferred dying in a war instead of breaking the oath and doing wrong act with Sita ji! This teaches us a lot, doesn't it?
+- He was a Vidyadhar (read about Vidyadhars [here](./64%20Riddhis/Riddhi_vs_Vidya.md)) and not a **Rakshash** (demon). Valmiki Ramayana manifests Ravan to be a Demon/ Evil; but in reality he belonged to a dynasty (vansh) named "Rakshash"! In fact, he was a Vidyadhar King with super-natural powers along with being a Pratinarayan. All [Shalaka Purushs](./Shalaka%20Purush/Introduction.md) are the most influential torchbearers and promoters of Jainism of their time; and thus Ravan was too! This clearly tells that he wasn't a **Shiv-bhakt** according to Valmiki.
+- **Ravan kidnapped Sita ji, but didn’t even touch her.** According to **Valmiki Ramayan**; he was given a Shrap (curse) by Vishnu that he’d die if he touched a woman without wish. But according to Jainism, Ravan went to Samavsaran of **Anantvirya Kevali**; and took an oath (Niyam) of not touching any woman without her wish! In spite of him being blind in his senses to kidnap Sita; he wasn't blind enough that he broke his oath that he took in front of Bhagwaan. *In fact, he preferred dying in a war instead of breaking the oath and doing wrong act with Sita ji! This teaches us a lot, doesn't it?*
 - Ravan attained a Vidya called **Bahuroopini** (making multi-clones of oneselves) in Bhagwan Shantinath Temple. In other versions of Ramayana it is told that he got powers from Vishnu. But in reality, he could attain powers (Vidyas) because of him being a Vidyadhar human! He didn't have 10 faces, but this Vidya could be the reason of it when he used during the war!
 - He was called **Dashanan** not because he had 10 faces. When he was born; his face was reflected in a necklace having 10 jewels; and thus 10 faces were seen; thus the name Dashanan.
 -  **Ravan** (Pratinarayan) was killed by his own Sudarshan Chakra (the ruler of 3 Khands have this Chakra) fired by **Lakshman** (Narayan) in the war; with being accompanied by **Shri Ram**(Balbhadra). It is the rule of Universe that in every time cycle -  *Narayan with the help of his elder brother Balbhadra defeats Pratinarayan to become the ruler of 3 Khands*.
@@ -35,7 +35,7 @@ In this section, we will be taking a glimpse of important differences between **
 - The **Sita-haran story** in Jainism is different to that of Valmiki Ramayan. Eg. there was nothing like ‘Lakshman rekha’! 
 - Ram does Ravan’s antim sanskaar; and had no hatred with him.
 - Carried his brother Lakshman on his shoulders for 6 months, showing affection for his brother. These information about the what happened after Ramchandra got Ayodhya is scarce in other versions.
-- Like **Chakravarti** has 96000 Queens, Narayan and Pratinarayan has 16000 Queens, Shri Ramchandra being a Balbhadra had **8000 queens**.
+- Like Chakravarti has **96000 Queens**, Narayan and Pratinarayan has **16000 Queens**, Shri Ramchandra being a Balbhadra had **8000 Queens**.
 - He took Jin-diksha and attained salvation from **Mangi-Tungi Siddha Kshetra**.
 
 ### 5. Sita
@@ -71,7 +71,7 @@ In this section, we will be taking a glimpse of important differences between **
 
 In this way, we have briefly learnt about the differences between Jain Ramayan and other versions of Ramayan. The purpose of knowing these is to be aware about the reality, not fall into any blind-beliefs that are actively being ran in the society; and thus also propagate the true knowledge passed to us from numerous Acharyas and Vidvaans to the world. 
 
-The ultimate motive is to take lessons from these illustrious characters of the history; and walk through their footsteps on the path of liberation.
+**The ultimate motive is to take lessons from these illustrious characters of the history; and walk through their footsteps on the path of liberation.**
 
 
 
