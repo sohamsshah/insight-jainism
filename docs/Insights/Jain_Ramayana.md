@@ -3,6 +3,8 @@ title: "Jain Ramayana Vs. Valmiki Ramayana"
 sidebar_position: 3
 ---
 
+### Introduction 
+
 "Ramayana" has been one of the most influential mythological/historical epics ever in the Indian Culture. Not just in Jainism; but it has been an integral part of Hindu and Buddhist literature; and many different versions of it has been in place since ages.
 
 It is very disheartening, disturbing and unfortunate that only less people in today's world know about the Jain version of Ramayana. We are indebted to the great saint [Acharya Ravishen Swami](./../Biographies//Acharyas/Acharya_Ravishen_Swami.md) whose **Padma-puraan** has cleared all our misconceptions, manipulations and false beliefs prevailing in different other versions of Ramayana particularly the popular Hindu scripture "Valmiki Ramayana"; and has depicted the true story of **Bhagwaan Ramchandra**.
@@ -68,6 +70,7 @@ In this section, we will be taking a glimpse of important differences between **
 - There is no reference for **Ram-setu** bridge or monkeys writing ‘Ram’s’ name on stones to float. Also many historians claim that Sri-Lanka is the original Lanka where Ravan resided. But this story is after the nirvaan of Tirthankar Munisuvrat; which counts to thousands of years ago! The geography has drastically changed through the time!
 - He attained salvation from **Mangi-Tungi Siddha Kshetra**.
 
+### Conclusion
 
 In this way, we have briefly learnt about the differences between Jain Ramayan and other versions of Ramayan. The purpose of knowing these is to be aware about the reality, not fall into any blind-beliefs that are actively being ran in the society; and thus also propagate the true knowledge passed to us from numerous Acharyas and Vidvaans to the world. 
 
