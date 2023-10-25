@@ -89,7 +89,7 @@ in different situations.
 - Trying to help someone, but couldn't do so?
 - Was well-prepared for the exam but it rained on that day? Who is to blame?
 - Facing obstacles in getting your work done?
-- Not able to get /find XYZ thing as per wish?
+- Not able to get/find XYZ thing as per wish?
 
 Answer is Antray Karma particles bonded to us.
 

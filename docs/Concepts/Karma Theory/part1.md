@@ -32,7 +32,7 @@ Karma is classified into 3 major types:
 
 :::note
 
- Karma Theory is unique to Jainism. "Karma" doesn't mean "work" in this context. Karma has a physical existence. Karma isn't abstract! We all know, everyone on Internet have abused this word a lot, which we all know. Now, it is the time for spreading the right knowledge about it!
+ Karma Theory is unique to Jainism. "Karma" doesn't mean "work" in this context. Karma has a physical existence. Karma isn't abstract! Everyone on Internet have abused this word a lot, which we all know. Now, it is the time for spreading the right knowledge about it!
 
 :::
 
@@ -40,15 +40,15 @@ Karma is classified into 3 major types:
 
 Dravya-Karma are the real matter particles. Like there are atoms of plastic, wood, chemicals; Karmic particles ("Karman Vargana" - one of the 22 subatomic particles defined in Jainism) is also real and existing as a physicality.
 
-But, unlike the other matter particles we are able to around; Karmic Particles CANNOT be seen by eyes or man-made instruments because of their infinitesimal minuteness (10 ^ -inf order size)
+But unlike the other matter particles we are able to around, Karmic Particles CANNOT be seen by eyes or man-made instruments because of their infinitesimal minuteness (10 ^ -inf order size).
 
-Like the matter atoms bind with other atoms, these Karmic-particles can BIND to the Soul also. These are 8 types of Dravya Karmas.
+Like the matter atoms bind with other atoms, these Karmic-particles can BIND to the Soul too. These are 8 types of Dravya Karmas.
 
 ### 2. Bhaav Karma
 
 Bhaav-Karma is the feelings of attachment detachment which are developed by soul on involving its conscience with material objects.
 
-"To feel" and have thoughts is one of the properties of the Soul (any living organism is Soul). Like atoms have properties of mass, physicality, color etc. the Soul has the property to "Feel", "Perceive" etc.
+"To feel" and have thoughts is one of the properties of the Soul (any living organism is Soul). Like atoms have properties of mass, physicality, color etc. The Soul has the property to "Feel", "Perceive" etc.
 
 In reality, the soul's characteristic is eternal bliss and happiness. But because of we search happiness in temporary materials, we are never able to get bliss and thus, suffering. If the Soul is free from "Raag-Dwesh" (attachment-detachment), then Bhaav-Karma doesn't happen!
 

@@ -5,7 +5,7 @@ sidebar_position: 3
 
 # 4 Anuyogas
 
-Based on the depiction methods, the Jainism Literature can be categorized into 4 types, known as **"Anuyogas"**. They are namely:
+Based on the depiction methods, the Jainism Literature can be categorized into 4 types known as **"Anuyogas"**. They are namely:
 
 1. Prathmanuyog
 2. Karnanuyog
@@ -32,16 +32,4 @@ Non-violence, truthfulness, celibacy, non-possession, eating-habits, fasting, vo
 ### Dravyanuyog
 **Dravyanuyog** enlightens the path of salvation by explaining the 6 Dravya, 7 Tatva, Bhed-gyaan etc. At the center, the continuous practice of Bhed-gyaan i.e. clearly understanding the difference between what is the **'swa'(me)** and what is **'par'**(everything else) is preached which leads to Aatmanubhuti i.e. experience of the self. 
 
-Since infinite lives, this Soul has always had a misconception of him being this body, and **Dravyanuyog** scriptures teach the art of separating our true-self from the outer world and experience the true happiness inside.
-
-
-
-
-
-
-
-
-
-
-
-
+Since infinite lives, this Soul has always had a misconception of him/her being this body, and **Dravyanuyog** scriptures teach the art of separating our true-self from the outer world and experience the true happiness inside.
