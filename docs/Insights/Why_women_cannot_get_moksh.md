@@ -113,7 +113,7 @@ As the journey progresses, the soul starts to experience inner bliss and gradual
 
 Eventually, the soul reaches a stage where it delves deeper into **Shuddh Bhaav (pure feelings)** and decides to take **Nirgranth Digamber Diksha**. This involves shedding all possessions, including clothes, as even a single piece of cloth can be an obstacle in the path to salvation.
 
-Through intense self-reflection, one day the soul attains **supreme intelligence, perception, bliss, and strength**. This state is known as **Arihant**. After some time, when all Karmas are shed, the soul achieves Salvation, freeing itself from the cycle of rebirth forever. This state is known as **Siddha**. In Jainism, both **Arihant** and **Siddh** are considered as Gods.
+Through intense self-reflection, one day the soul attains **supreme intelligence, perception, bliss, and strength**. This state is known as **Arihant**. After some time, when all Karmas are shed, the soul achieves Salvation, freeing itself from the cycle of rebirth forever. This state is known as **Siddh**. In Jainism, both **Arihant** and **Siddh** are considered as Gods.
 :::
 
 ## So does Jainism see women as weak species?
@@ -136,7 +136,7 @@ Indeed, strength is not linked to gender but rather to the **Sanhanan (body stru
 
 ## Conclusion
 
-Jainism defines true nature of substance, exactly how it is. Claiming Jainism as **"Misogynist"** religion is really a baseless statement.
+Jainism defines **true nature of substance**, exactly how it is. Claiming Jainism as **"Misogynist"** religion is really a baseless statement.
 
 Jainism accurately defines the **true nature of substances** as they are. Labeling Jainism as a **"misogynist"** religion is entirely baseless.
 
@@ -150,9 +150,9 @@ Don't you think that it was too shallow to stress more on why females cannot att
 
 Sometimes, our focus is distracted to wrong subjects. We should rather try to deeply understand what Moksh really is and how to achieve it. 
 
-Your question about **"Why one cannot attain Moksh "as a woman" according to Jainism?"** was definitely valid. Through this blog I have tried to answer this in simplest and most logical way possible totally - totally based on what is being preached in our scriptures. I hope this blog answered all your doubts and confusions relating to this topic.
+Your question about **"Why one cannot attain Moksh "as a woman" according to Jainism?"** was definitely valid. Through this blog I have tried to answer this in simplest and most logical way possible - totally based on what is being preached in our scriptures. I hope this blog answered all your doubts and confusions relating to this topic.
 
-So, let us march on the path of liberation by understanding Jain scriptures, principles, practicing the art of seeing ourselves separate from this body and henceforth attaining the state of supreme bliss - **Moksh** soonest.
+So, let us march on the **path of liberation** by understanding Jain scriptures, principles, practicing the art of seeing ourselves separate from this body and henceforth attaining the state of supreme bliss - **Moksh** soonest.
 
 
 
