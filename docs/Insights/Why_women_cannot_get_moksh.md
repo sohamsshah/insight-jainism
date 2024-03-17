@@ -43,7 +43,7 @@ There are 3 types of "Bhaav"
     2. Ashubh (negative) - binds negative/bad karmas
     3. Shuddh (pure) - doesn't bind ANY karmas
 
-From above, you must have rightly guessed that only by **Shuddh bhaav** one can attain Moksh. Because it is the **only** Bhaav by which there are no new karmas bonded and past karmas are shedded!
+From above, you must have rightly guessed that only by **Shuddh bhaav** one can attain Moksh. These **Shuddh Bhaavs** are attained during the time of penance. They are the **only** Bhaav during which the soul doesn't bind any new karmas and sheds past karmas!
 
 The physical body that the soul resides in; is closely linked to the kinds of "Bhaav" this soul can possess.
 
@@ -118,8 +118,6 @@ Through intense self-reflection, one day the soul attains **supreme intelligence
 
 ## So does Jainism see women as weak species?
 
-Like how we see humans stronger to other animals in terms of body structure, based on the **Sanhanans** we just learnt - it is rightly to conclude that yes, male bodies are stronger than of a female body.
-
 Just as we perceive humans as stronger than other animals based on physical structure, according to the different types of **Sanhanans** we've just discussed, it is reasonable to conclude that male bodies are generally stronger than female bodies.
 
 But this is very subjective. Reiterating again, the measure of strength is not gender but the **Sanhanan** they possess. 
@@ -135,8 +133,6 @@ Indeed, strength is not linked to gender but rather to the **Sanhanan (body stru
 **Women possess their own set of strengths and weaknesses; and so does men.** It is dumb to compare and try to equate two different species of nature.
 
 ## Conclusion
-
-Jainism defines **true nature of substance**, exactly how it is. Claiming Jainism as **"Misogynist"** religion is really a baseless statement.
 
 Jainism accurately defines the **true nature of substances** as they are. Labeling Jainism as a **"misogynist"** religion is entirely baseless.
 
