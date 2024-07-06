@@ -22,4 +22,4 @@ Let us take a glimpse what does Matter include:
 5. Liquid and Gaseous States
 6. Solid States
 
-- Important to note that all the energy such as kinetic, potential, thermal, different waves etc. are included in Matter only. In short, everything we percieve by senses in any form in the Universe, is just Matter!
+- Important to note that all the energy such as kinetic, potential, thermal, different waves etc. are included in Matter only. In short, everything we perceive by senses in any form in the Universe, is just Matter!
