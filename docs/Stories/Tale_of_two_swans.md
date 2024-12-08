@@ -1,5 +1,5 @@
 ---
-title: "A tale of two baby swans"
+title: "A tale of a baby swan"
 sidebar_position: 4
 ---
 
@@ -9,19 +9,19 @@ He considered himself extremely fortunate to have the auspicious privilege of en
 
 Curiosity about his past birth and a desire to unravel the "whys" of his present life led Jeevandhar Swami to earnestly request the Saint to shed light on his previous life.
 
-In response, the venerable Saint began narrating **'A Tale of Two Baby Swans'** unraveling Jeevandhar Swami's past life.
+In response, the venerable Saint began narrating **'A Tale of a Baby Swan'** unraveling Jeevandhar Swami's past life.
 
 ---
 
 #### Jeevandhar Swami's past life as Prince Yashodhar
 
-"Father, behold these beautiful baby swans! Are they not mesmerizing? See how gracefully they flap their wings and glide through the water," exclaimed **Yashodhar**, gently caressing the soft feathers of the adorable birds.
+"Father, behold these beautiful baby swan! Are they not mesmerizing? See how gracefully they flap their wings and glide through the water," exclaimed **Yashodhar**, gently caressing the soft feathers of the adorable birds.
 
 "Son, where did you acquire these baby birds?" questioned his father, **Pavanveg**, the reigning king of the city **Bhumitilak** situated in the **Dhaatkikhand** Dweep (island).
 
 "I brought them here from a nearby lake's flock to play and interact with them. I assure you, Father, I will take utmost care of them—nourish them with the finest food and shower them with all the love I can muster," pledged **Yashodhar**, his eyes sparkling with sincerity.
 
-"Alas, my dear son, you have committed a grave sin. Did you not consider the restlessness, fear, and sorrow that the parents of these two baby swans must be experiencing? Think about the profound despair and anguish they must be feeling, grieving the loss of their little ones! 
+"Alas, my dear son, you have committed a grave sin. Did you not consider the restlessness, fear, and sorrow that the parents of this baby swan must be experiencing? Think about the profound despair and anguish they must be feeling, grieving the loss of their little ones! 
 
 Try to empathize with the shock and anxiety of these young ones, now caged within unfamiliar bars! Can you not hear their cries? No? Perhaps it is because your ears are deafened by the noise of the materialistic world outside."
 
@@ -43,7 +43,7 @@ This conversation with his father triggered a profound sense of regret in Yashod
 
 Following an exploration and contemplation of his true identity, origin, the nature of reality, the theory of karma, the universe, and various spiritual lessons imparted by his father, Yashodhar became detached from the material world.
 
-Deeply moved by his encounter with the baby swans and the spiritual teachings from his father, Yashodhar renounced the external world to delve into his inner self. Embracing the most profound benefactor of the soul, **Nirgranth Digamber Jain Diksha**, he embarked on a journey into the forest to engage in penance, meditation, and all acts aimed at purifying the soul from the stains of desires and aversions.
+Deeply moved by his encounter with the baby swan and the spiritual teachings from his father, Yashodhar renounced the external world to delve into his inner self. Embracing the most profound benefactor of the soul, **Nirgranth Digamber Jain Diksha**, he embarked on a journey into the forest to engage in penance, meditation, and all acts aimed at purifying the soul from the stains of desires and aversions.
 
 In a remarkable turn of events, not only Yashodhar but also his eight wives took **Aryika Diksha**, choosing to follow the path of salvation.
 
@@ -57,13 +57,13 @@ As the proverb goes:
 
 No deed is without consequence. Neither Ganga nor Yamuna can cleanse one's sins. Karma spares nothing. Not even the Tirthankars (and all Arihantas), who, through introspection into their own souls, become the destroyers of Karmas.
 
-These [Karmas](./../Concepts/Karma%20Theory/part1.md) also did not spare the soul of Jeevandhar Swami, who, in a past life, committed the sin of confining the two baby swans.
+These [Karmas](./../Concepts/Karma%20Theory/part1.md) also did not spare the soul of Jeevandhar Swami, who, in a past life, committed the sin of confining the baby swan.
 
 Despite being the son of the prestigious and renowned King Satyandhar, Jeevandhar's birth unfolded in stark contrast to a life of luxury. His arrival occurred in a desolate graveyard, devoid of any witnesses. Tragically, his father had already perished in battle when he emerged from Queen Vijaya's womb. Compounded by an enemy invasion, his mother was forced to abandon him to fate and flee the scene.
 
 Later in life, Jeevandhar Swami faced further challenges as he found himself ensnared and imprisoned within the stronghold of the enemy clan.
 
-> ***Due to Jeevandhar Swami's past actions of separating the two baby swans as Yashodhar, he found himself enduring prolonged separation from his own parents in this current life. Furthermore, his act of confining the innocent birds resulted in his imprisonment by the enemy in this life.***
+> ***Due to Jeevandhar Swami's past actions of separating the the baby swan as Yashodhar, he found himself enduring prolonged separation from his own parents in this current life. Furthermore, his act of confining the innocent birds resulted in his imprisonment by the enemy in this life.***
 
 Isn't this insight fascinating?
 
