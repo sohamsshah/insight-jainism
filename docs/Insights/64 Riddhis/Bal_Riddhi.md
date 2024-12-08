@@ -26,7 +26,7 @@ It is the miraculous power by which the great Jain Saints can do the Chintvan (c
 
 :::info
 
-**Antarmuhurt** is a time-range from 2 Samay upto 1 Muhurt (48 minutes). Here, note that Antarmuhurt is in under 1 Muhurt time; and so we don't count the 48th minute.
+**Antarmuhurt** is a time-range from 6 Aavli + 1 Samay upto 1 Muhurt (48 minutes). Here, note that Antarmuhurt is in under 1 Muhurt time; and so we don't count the 48th minute.
 
 Now, we just read that great Jain Saints possessing this Riddhi can
 
@@ -52,7 +52,7 @@ And this actually means that ->
 
 Pause for a minute and think over this miraculous power possessed by the great Saints; the power that originates by the virtue of realizing ourselves i.e. Soul. If just Shrutgyaan is so great; then how can we ever be able to describe the infinite knowledge (Kevalgyaan) of the Arihant and Siddh Bhagwaan! All we can do is to bow down to them and follow their path to become like them. 
 
-Antarmuhurt means any time value between 2 samay upto 48min. The value we derived was the minimum...Because we assumed that it takes 48min to contemplate the whole Shrutgyaan...While it is fairly possible that one can take 47min, 100 samay or so on! Isn't this beyond our imagination?
+Antarmuhurt means any time value between 6 Aavli + 1 samay upto 48min. The value we derived was the minimum...Because we assumed that it takes 48min to contemplate the whole Shrutgyaan...While it is fairly possible that one can take 47min, 100 samay or so on! Isn't this beyond our imagination?
 
 :::
 
