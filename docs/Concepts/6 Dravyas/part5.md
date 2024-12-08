@@ -1,9 +1,7 @@
 ---
-title: "6. Time (Kaal)"
+title: "6. Time (Kaal) Dravya"
 sidebar_position: 5
 ---
-
-# Time (Kaal)
 
 - One of the most fascinating thing about the definition of "Time" in Jainism is that it is not abstract! Similar to other existents, it is having a physical importance too. Time is classified in 2 different types:
 

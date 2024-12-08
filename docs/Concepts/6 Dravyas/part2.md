@@ -1,9 +1,7 @@
 ---
-title: "2. Pudgal (Matter)"
+title: "2. Pudgal (Matter) Dravya"
 sidebar_position: 3
 ---
-
-# 2. Pudgal (Matter)
 
 - Matter is all the physicality we see around us. Anything and Everything that we can "perceive" by senses (eyes, touch etc.) or by scientific instrument, practical studies etc. fall under the Existent "Matter" (Pudgal).
 

@@ -1,9 +1,7 @@
 ---
-title: "3. and 4. Dharma and Adharma"
+title: "3. and 4. Dharma and Adharma Dravya"
 sidebar_position: 4
 ---
-
-# 3. Dharma (Dynamic media) and 4. Adharma (Stationary) Dravya
 
 - The Dharma (Dynamic Medium) and Adharma (Stationary Medium) are the existents of the Universe that are the reason of the "Motion" and "Rest" states existing in the Universe.
 

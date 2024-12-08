@@ -26,7 +26,7 @@ Because our fundamental question is why **"women"** cannot attain Moksh, it beco
 
 Well, does a woman attain Moksh? Or a man? Or cows or cats? **Who attains Moksh then?**
 
-As mentioned; Moksh is attained by the [Soul](./../Concepts/6%20Dravyas/part0.md)! Whatever we label as man, woman, animal, bird etc. are all the names of the body; and not the soul.
+As mentioned; Moksh is attained by the [Soul](./../Concepts/6%20Dravyas/introduction.md)! Whatever we label as man, woman, animal, bird etc. are all the names of the body; and not the soul.
 
 In Jainism, considering other souls as male, female, animal, plant, and so on is regarded as the greatest sin. Viewing oneself as male, female, old, young, rich, poor, and so forth is identified as the root cause of Sansaar, or the false perception that hinders us from attaining Godhood.
 

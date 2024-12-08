@@ -1,9 +1,7 @@
 ---
-title: "5. Space (Aakash)"
+title: "5. Space (Aakash) Dravya"
 sidebar_position: 4
 ---
-
-# Space (Aakash)
 
 - The existent of the Universe which provides a “home” for all the other existents is "Space". The Matter, Soul, dynamic and stationary media and Time, all reside by the virtue of Space (Akash Dravya).
 

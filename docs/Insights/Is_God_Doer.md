@@ -199,7 +199,7 @@ Through purification, the soul can attain the state of Godliness. God represents
 
 ### How is the Universe?
 
-The Universe is made up of [6 fundamental elements](/docs/Concepts/6%20Dravyas/part0.md). **All substances in the universe are self-existing; meaning no one has created them - and no one would destroy either.** All of them exist by the virtue of existence. 
+The Universe is made up of [6 fundamental elements](/docs/Concepts/6%20Dravyas/introduction.md). **All substances in the universe are self-existing; meaning no one has created them - and no one would destroy either.** All of them exist by the virtue of existence. 
 
 Hence, **Universe is proven to be self-existing for infinity** i.e. without any start or end. 
 

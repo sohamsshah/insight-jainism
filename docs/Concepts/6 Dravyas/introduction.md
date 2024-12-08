@@ -1,9 +1,9 @@
 ---
-title: "0. Introduction"
+title: "Introduction"
 sidebar_position: 1
 ---
 
-# 0. Introduction
+# Introduction
 
 The true insight about the Six Existents (6 Dravyas) and the Universe has been one of the most important and essential concepts to be known in Jainism.
 
