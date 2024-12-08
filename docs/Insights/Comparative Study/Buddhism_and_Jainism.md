@@ -38,7 +38,7 @@ There can be a lot of questions like these. In fact, you can also come up with m
 
 ### Origin
 
-**Buddha** lived in northern India sometime between the mid-6th and the mid-4th centuries before the Common Era.
+**Buddha** lived in northern India sometime between the mid-6th and the mid-4th centuries before the Common Era; founded **Buddhism**.
 
 > According to the various traditions of Buddhism, buddhas have existed in the past and will exist in the future. Some Buddhists believe that there is only one buddha for each historical age, others that all beings will become buddhas because they possess the buddha nature (tathagatagarbha).
 
@@ -148,7 +148,7 @@ On the contrary, Jainism's **Nirvana** is depicted in a much more deeper sense. 
 
 When the Soul realizes the self and delves completely into self attains Nirvana. Till then, the 8 Karmas are bonded to it which are responsible to not let Soul's potential come out totally and hold the Soul suffer in the Sansaar (world). Once Soul achieves Nirvana state, he also gets free from the 8 Karmas.
 
-### Unanswerable Questions (?)
+### Unanswerable Questions in Buddhism
 
 It is highly recommend to go through [this](https://en.wikipedia.org/wiki/The_unanswerable_questions) and read the **Unanswerable** questions in Buddhism.
 
@@ -239,7 +239,7 @@ According to the story above, **Buddha** couldn't follow extreme asceticism and 
 Problems with **The Middle Way**:
 
 - How to identify the extremes? Without those extremes (that can change with time and geographical situations), how can we even devise a Middle way?
-- In the **EightFold** Path, it is advised to not eat non-vegetarian food. But still because it is a middle way; it allows the followers to do whatever they way - because that is what **Buddha** did!
+- In the **EightFold** Path, it is advised to not eat non-vegetarian food. But still because it is a middle way; it allows the followers to do whatever they want in the name of middle path - because that is what **Buddha** did!
 - Jainism believes in both - **Absolutism** and **Annihilationism** but very specified and described. In other words, Jainism says that the substance is both **constant** and **changing**, and also explains how both of these exist in the same thing at the same time. One doesn't have to steer; but rather accept how the substance is. For eg. we believe that a human is changing (from child, to adult, to old man) but the person is also constant since the years. This is the beauty of **Anekantvaad** of Jainism! **Buddhism** is **Ekantvaad**.
 - If nothing is constant then how does it make sense to renounce the world and follow the path to Nirvana? Because after each moment, the substance is destroyed and a new one is born; what is the point of making any effort?
 
