@@ -1,9 +1,7 @@
 ---
-title: "1. Jeev (Soul)"
+title: "1. Jeev (Soul) Dravya"
 sidebar_position: 2
 ---
-
-# 1. Soul (Jeev)
 
 - All the living organisms, from microorganisms, plants, macro species including animals and humans (also including the Heavenly Beings and Hellish beings existing in the different Realms of the Universe), all are Soul.
 

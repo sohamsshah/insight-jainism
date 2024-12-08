@@ -56,7 +56,7 @@ There is scarce information available about the life of Buddha and his details. 
 
 And it answers -
 
-- In-depth details (names, life, symbols, age, previous lives etc. [Read more](../../Biographies/24%20Tirthankars/)) about the 24 Tirthankars of this, past and future Kaal.
+- In-depth details (names, life, symbols, age, previous lives etc. [Read more](../../Biographies//24%20Tirthankars/1.md)) about the 24 Tirthankars of this, past and future Kaal.
 - Jainism says from **"Dravya"** i.e. constant substance perspective, all souls are Pure. But from **Paryay** i.e. state, they are impure. A soul by recognizing the self, can become pure in **Paryay** too; and that is what it shows the path for! (Buddhism rejects the ideology of existence of **Dravya** constant substance and only believes in **Paryays**.)
 - In depth detail (with mathematical formulas, scientific explanations, logical points) about each and every element of Universe.
 - Buddhists do talk about different historical cycles; but lack any details. Jainism depicts [**Kaal Chakra**](./../Kaal_Chakra.md) in great depth.
@@ -191,7 +191,7 @@ While in **Jainism**, Karma theory is not a theory; but science.
 - Karma is a type of Karmic particle which bonds to Soul by Raag, dwesh and Moh; and a Soul can be free from it if he is free from Attachments and Aversions. It answers the questions about each and everything happening to Soul in the Universe.
 - It can answer the cycle of birth and death; and also answers how to end it.
 - There are complex mathematical formulas to explain the quantity (in infinite range) of Karmas getting bonded to Soul in how much time.
-- There are different types of Karmas for different phenomena. There are different Karmic bonding states. In short, it is in great depth. **You can read more about Karma Theory in Jainism [here](./../../Concepts/Karma%20Theory/).**
+- There are different types of Karmas for different phenomena. There are different Karmic bonding states. In short, it is in great depth. **You can read more about Karma Theory in Jainism [here](./../../Concepts/Karma%20Theory/part1.md).**
 
 ### Cosmology
 
