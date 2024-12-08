@@ -51,7 +51,7 @@ Like the matter atoms bind with other atoms, these special type of **karmic-part
 
 **Bhaav-Karma** is the feelings of Raag and Dwesh (attachment and aversion) which are developed by soul on involving its conscience with material objects.
 
-**"To feel"** and **"To know"** are some of the core properties of the Soul (any living organism is Soul). Like **matter** have properties of mass, physicality, color etc. The Soul has the property to "Feel", "Perceive" etc. [Read more about 6 fundamental substances here](../6%20Dravyas/part0.md).
+**"To feel"** and **"To know"** are some of the core properties of the Soul (any living organism is Soul). Like **matter** have properties of mass, physicality, color etc. The Soul has the property to "Feel", "Perceive" etc. [Read more about 6 fundamental substances here](../6%20Dravyas/introduction.md).
 
 In reality, the Soul's innate characteristic is **infinite knowledge** and **eternal bliss**. But because we are constantly finding happiness in temporary materials, we are never able to get bliss and thus, the suffering. We undergo these **"Bhaav karmas" (attachment and aversion)** when engaging ourselves to materialistic pleasures. 
 
