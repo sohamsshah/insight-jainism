@@ -7,7 +7,7 @@ sidebar_position: 2
 
 **Acharya Ravishen Swami**; this name is well-known by the whole Digamber Jain community for the composition of his great Jain Scripture **"Padmapuran"**, also known as "Jain Ramayana".
 
-<img src="/img/biographies/Acharya_Ravishen_Swami.png" alt="Bharat Kshetra" height="50px" width="250px" />
+<img src="/img/biographies/Acharya_Ravishen_Swami.png" alt="Bharat Kshetra" height="250px" width="250px" />
 
 ### About
 

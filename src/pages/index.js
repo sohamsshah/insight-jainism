@@ -3,6 +3,7 @@ import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import Layout from "@theme/Layout";
 import HomepageFeatures from "@site/src/components/HomepageFeatures";
 import styles from "./index.module.css";
+import { Analytics } from "@vercel/analytics/react"
 
 export default function Home() {
   const { siteConfig } = useDocusaurusContext();
@@ -22,6 +23,7 @@ export default function Home() {
         </div>
 
         <HomepageFeatures />
+        <Analytics />
       </main>
     </Layout>
   );

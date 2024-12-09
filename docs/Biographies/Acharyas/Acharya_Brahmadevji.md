@@ -12,7 +12,7 @@ sidebar_position: 3
 
 **"Acharya Brahmadevji"**, a great name that is revered in the world of spiritual (Adhyatma) literature; was a great Digamber Jain Saint who composed various scriptures in both Nishchay (Absolute aspect representing truth) and Vyavhaar (Relative aspect representing truth) areas; in all 4 [Anuyogas](../../Concepts//Anuyog/Anuyog.md) - clearly depicting the importance to know and follow both. This versatility in knowledge is unparalleled and we are truly indebted to what Acharyadev has given to us.
 
-<img src="/img/biographies/Acharya_Brahmadevji.png" alt="Bharat Kshetra" height="50px" width="250px" />
+<img src="/img/biographies/Acharya_Brahmadevji.png" alt="Bharat Kshetra" height="250px" width="250px" />
 
 ### About
 

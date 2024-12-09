@@ -9,7 +9,7 @@ sidebar_position: 1
 
 He was an illustrious poet, expert debater (Vaadi), Vaagmi, Yogi, Tyaagi, Tapasvi and Tatvagyaani. 
 
-<img src="/img/biographies/Acharya_Vadibhsinh_Suri.png" alt="Bharat Kshetra" height="50px" width="200px" />
+<img src="/img/biographies/Acharya_Vadibhsinh_Suri.png" alt="Bharat Kshetra" height="200px" width="200px" />
 
 ### About
 
