@@ -17,9 +17,9 @@ In response, the venerable Saint began narrating **'A Tale of a Baby Swan'** unr
 
 "Father, behold these beautiful baby swan! Are they not mesmerizing? See how gracefully they flap their wings and glide through the water," exclaimed **Yashodhar**, gently caressing the soft feathers of the adorable birds.
 
-"Son, where did you acquire these baby birds?" questioned his father, **Pavanveg**, the reigning king of the city **Bhumitilak** situated in the **Dhaatkikhand** Dweep (island).
+"Son, where did you acquire this baby bird?" questioned his father, **Pavanveg**, the reigning king of the city **Bhumitilak** situated in the **Dhaatkikhand** Dweep (island).
 
-"I brought them here from a nearby lake's flock to play and interact with them. I assure you, Father, I will take utmost care of them—nourish them with the finest food and shower them with all the love I can muster," pledged **Yashodhar**, his eyes sparkling with sincerity.
+"I brought it here from a nearby lake's flock to play and interact with it. I assure you, Father, I will take utmost care of it with the finest food and shower it with all the love I can muster," pledged **Yashodhar**, his eyes sparkling with sincerity.
 
 "Alas, my dear son, you have committed a grave sin. Did you not consider the restlessness, fear, and sorrow that the parents of this baby swan must be experiencing? Think about the profound despair and anguish they must be feeling, grieving the loss of their little ones! 
 
@@ -29,17 +29,17 @@ Try to empathize with the shock and anxiety of these young ones, now caged withi
 
 "***Foolish humans often have a tendency to rationalize their selfishness.*** This act of yours, Prince Yashodhar, is an irredeemable mistake that will yield suffering for you in the future," sighed the King, gently caressing the neck of the baby swan.
 
-"But...if I had not brought them here and housed them in this cage, in the open, unfenced nature - any wild animal would have feasted on them! Isn't it better to offer a safe life here, and perhaps even a prolonged lifespan?" inquired Yashodhar.
+"But...if I had not brought it here and housed it in this cage, in the open, unfenced nature - any wild animal would have feasted on it! Isn't it better to offer a safe life here, and perhaps even a prolonged lifespan?" inquired Yashodhar.
 
-"***A short life lived in the free air is better than a long life spent in prison.*** Can anyone provide love, care, and safety like their parents? Never. Not even a cent close to that. Who are we to decide the destiny of this little one? Who are we to imprison an innocent life? Beloved son, with your pure heart, brought these lives here to play with and take care of them. 
+"***A short life lived in the free air is better than a long life spent in prison.*** Can anyone provide love, care, and safety like its parents? Never. Not even a cent close to that. Who are we to decide the destiny of this little one? Who are we to imprison an innocent life? Beloved son, with your pure heart, brought these lives here to play with and take care of it. 
 
 But, was it not enough play for you to witness their free flight in the unending lake? Or to behold their silver-lined white feathers sailing under the sun and quench your thirst for finding beauty in the outside?" reflected his father.
 
 "***Ah, you are imprisoned in the desire to find joy in nature, to find peace in its beauty. Has this soul not roamed enough in this infinite universe? You are enslaved by your senses, my dear.*** Sadly, you will never be able to satisfy yourself if you seek it outside. The art of separating your true self from the external is the essence of all spiritual knowledge you will ever seek. Because the art of believing, knowing, and experiencing yourself (the soul) separate from this body, from your belongings, and from the entire world is the art of salvation. 
 
-***Salvation (Moksh) is the state of infinite bliss—the bliss that each and every soul in the universe seeks day and night.*** These little lives also possess the potential to become God, to attain salvation, just like you and me! Isn't it unjust to treat them with pain like this?" counseled the king.
+***Salvation (Moksh) is the state of infinite bliss—the bliss that each and every soul in the universe seeks day and night.*** These little lives also possess the potential to become God, to attain salvation, just like you and me! Isn't it unjust to treat it with pain like this?" counseled the king.
 
-This conversation with his father triggered a profound sense of regret in Yashodhar. Consequently, he liberated the birds, allowing them to soar back to their natural home. Yet, beyond mere regret, a spark of curiosity was ignited in his pure mind, giving rise to numerous questions about life, death, the soul, the universe, and purpose.
+This conversation with his father triggered a profound sense of regret in Yashodhar. Consequently, he liberated the the bird, allowing it to soar back to their natural home. Yet, beyond mere regret, a spark of curiosity was ignited in his pure mind, giving rise to numerous questions about life, death, the soul, the universe, and purpose.
 
 Following an exploration and contemplation of his true identity, origin, the nature of reality, the theory of karma, the universe, and various spiritual lessons imparted by his father, Yashodhar became detached from the material world.
 
@@ -63,7 +63,7 @@ Despite being the son of the prestigious and renowned King Satyandhar, Jeevandha
 
 Later in life, Jeevandhar Swami faced further challenges as he found himself ensnared and imprisoned within the stronghold of the enemy clan.
 
-> ***Due to Jeevandhar Swami's past actions of separating the the baby swan as Yashodhar, he found himself enduring prolonged separation from his own parents in this current life. Furthermore, his act of confining the innocent birds resulted in his imprisonment by the enemy in this life.***
+> ***Due to Jeevandhar Swami's past actions of separating the the baby swan as Yashodhar, he found himself enduring prolonged separation from his own parents in this current life. Furthermore, his act of confining that innocent bird resulted in his imprisonment by the enemy in this life.***
 
 Isn't this insight fascinating?
 
