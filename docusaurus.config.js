@@ -87,8 +87,20 @@ const config = {
                 label: "Stories",
               },
               {
-                to: "/docs/tweets",
-                label: "Latest Tweets",
+                to: "/docs/category/summaries",
+                label: "Summaries",
+              },
+              {
+                to: "/docs/category/write-ups",
+                label: "Write ups",
+              },
+              {
+                to: "/docs/category/scriptures",
+                label: "Scriptures",
+              },
+              {
+                to: "/docs/category/LCPA",
+                label: "LCPA",
               },
             ],
           },
