@@ -116,10 +116,6 @@ const config = {
                 label: "Instagram",
                 href: "https://www.instagram.com/cyf_42/",
               },
-              {
-                label: "Twitter",
-                href: "https://www.twitter.com/insight_jainism/",
-              },
             ],
           },
         ],
