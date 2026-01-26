@@ -1,6 +1,6 @@
 ---
-title: 'રામ કહાની: Outline'
-sidebar_position: 5
+title: "રામ કહાની: Outline"
+sidebar_position: 1
 ---
 
 **પહેલો દિવસ:**
