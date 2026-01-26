@@ -110,10 +110,6 @@ const config = {
                 to: "/docs/category/research",
                 label: "Research",
               },
-              {
-                to: "/docs/category/others",
-                label: "Others",
-              },
             ],
           },
         ],
