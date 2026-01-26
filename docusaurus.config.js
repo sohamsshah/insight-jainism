@@ -102,6 +102,18 @@ const config = {
                 to: "/docs/category/LCPA",
                 label: "LCPA",
               },
+              {
+                to: "/docs/category/drama",
+                label: "Drama",
+              },
+              {
+                to: "/docs/category/research",
+                label: "Research",
+              },
+              {
+                to: "/docs/category/others",
+                label: "Others",
+              },
             ],
           },
         ],
