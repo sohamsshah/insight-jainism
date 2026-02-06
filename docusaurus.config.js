@@ -106,6 +106,14 @@ const config = {
                 to: "/docs/category/charts",
                 label: "Charts",
               },
+              {
+                to: "/docs/category/drama",
+                label: "Drama",
+              },
+              {
+                to: "/docs/category/research",
+                label: "Research",
+              },
             ],
           },
         ],

@@ -1,0 +1,60 @@
+.pdfContainer {
+  border: 1px solid var(--ifm-color-emphasis-300);
+  border-radius: 8px;
+  overflow: hidden;
+  margin: 1rem 0;
+  background: var(--ifm-background-color);
+}
+
+.pdfHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.75rem 1rem;
+  background: var(--ifm-color-emphasis-100);
+  border-bottom: 1px solid var(--ifm-color-emphasis-300);
+}
+
+.pdfTitle {
+  font-weight: 600;
+  color: var(--ifm-color-content);
+}
+
+.downloadButton {
+  padding: 0.4rem 0.8rem;
+  background: var(--ifm-color-primary);
+  color: white;
+  border-radius: 4px;
+  text-decoration: none;
+  font-size: 0.85rem;
+  transition: background 0.2s ease;
+}
+
+.downloadButton:hover {
+  background: var(--ifm-color-primary-dark);
+  color: white;
+  text-decoration: none;
+}
+
+.pdfFrame {
+  width: 100%;
+  border: none;
+  display: block;
+}
+
+.fallback {
+  padding: 0.5rem 1rem;
+  background: var(--ifm-color-emphasis-100);
+  border-top: 1px solid var(--ifm-color-emphasis-300);
+  text-align: center;
+  font-size: 0.85rem;
+}
+
+.fallback p {
+  margin: 0;
+  color: var(--ifm-color-content-secondary);
+}
+
+.fallback a {
+  color: var(--ifm-color-primary);
+}
