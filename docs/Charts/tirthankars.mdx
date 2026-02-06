@@ -1,0 +1,49 @@
+---
+title: Tirthankars — Life Span, Height & Time Differences
+sidebar_position: 1
+description: Bar charts showing life spans, heights, time between Tirthankars, and decrease in age across the 24 Tirthankars.
+---
+
+import LifeSpanChart from '@site/src/components/Charts/LifeSpanChart';
+import HeightChart from '@site/src/components/Charts/HeightChart';
+import LifeSpanDifferenceChart from '@site/src/components/Charts/LifeSpanDifferenceChart';
+import SamavsaranChart from '@site/src/components/Charts/SamavsaranChart';
+import TimeGapChart from '@site/src/components/Charts/TimeGapChart';
+
+Charts below are built from the [24 Tirthankars](/docs/category/24-tirthankars) biography data and taking reference from [Triloksar scripture](/docs/Scriptures/Triloksar).
+
+## Life spans
+
+Life span decreases from the first to the 24th Tirthankar. **All values are in years** — the first ten (originally in Lakh Purva) are converted using 1 Purva = 70,560,000,000,000 years. The chart uses a log scale so the full range is visible.
+
+<LifeSpanChart />
+
+## Time between Consecutive Tirthankars
+
+Gap in time from one Tirthankar to the next. Early gaps are in Jain innumerable units (Saagar, Kodi Saagar, Palya); later gaps are in years.
+
+Palya and Saagar are innumerable units of measurement. 
+Total time for [4th Era](/docs/Insights/Kaal_Chakra) (when tirthankars are born) is 1 Koda-kodi Saagar.
+- 1 Saagar = Innumerable Palyas
+- 1 Palya = Innumerable years
+
+Read more about [Absolute Numeral System](/docs/category/absolute-numeral-system) of Jainism.
+<TimeGapChart />
+
+## Height (in numbers)
+
+Heights are in **Dhanush** for the first 22 Tirthankars and in **Haath** for the last two (Parshwanath and Mahavir Swami).
+
+<HeightChart />
+
+## Area of Samavsaran
+
+The Area of Samavsaran decreases from 12 Yojan (Aadinath) to 1 Yojan (Mahavir Swami), in steps of 0.5 Yojan (with 1.25 Yojan for Parshwanath).
+
+<SamavsaranChart />
+
+## Difference in life span from previous Tirthankar
+
+Each bar shows how much shorter the life span is compared to the previous Tirthankar — illustrating the systematic decline across the cycle.
+
+<LifeSpanDifferenceChart />

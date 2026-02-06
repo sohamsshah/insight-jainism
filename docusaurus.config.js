@@ -102,6 +102,10 @@ const config = {
                 to: "/docs/category/LCPA",
                 label: "LCPA",
               },
+              {
+                to: "/docs/category/charts",
+                label: "Charts",
+              },
             ],
           },
         ],
